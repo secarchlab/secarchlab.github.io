@@ -35,6 +35,11 @@
   ネットワーク内コンピューティング・エッジコンピューティングなど、新しい計算アーキテクチャにおけるセキュリティやプライバシの数理的フレームワークの研究や、信頼できない計算基盤でのユーザプライバシ保護方法の研究
   
   - Under construction... 構成中
+  
+
+For detailed research topics and publication, please check [Kurihara's web site](https://junkurihara.github.io).
+
+詳細な研究内容や出版履歴については、[栗原のWebサイト](https://junkurihara.github.io) を参照して下さい。
 
 ---
 
