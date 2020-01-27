@@ -3,7 +3,7 @@
 - Jan. 2020: SecArch Lab. just started! 研究室を立ち上げました！
 
 
---
+---
 
 ## Research 研究内容
 
@@ -30,7 +30,7 @@
   
   - Under construction... 構成中
 
---
+---
 
 ## Member メンバー
 
@@ -42,7 +42,7 @@
 
 - 
 
---
+---
 
 ## Information to students who want to study in this lab. 配属を希望する学生の方々へ。
 
@@ -70,7 +70,7 @@ Before applying the addmission exam, please contact Jun Kurihara first! I believ
 
 入試を受ける前に、まず栗原にコンタクトを取って下さい。より良い研究を行うためにも、この研究室での研究に対する誤解を避けるためにも、まずはぜひ相談しましょう！
 
---
+---
 
 ## Contact 連絡先
 
