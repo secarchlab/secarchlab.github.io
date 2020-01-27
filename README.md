@@ -52,11 +52,11 @@ Our research mostly uses some of following tools, and (possibly) highly requires
 
 - First of all, **English**. Cutting edge papers are always written and published in English. We mostly refer to English litertures even textbooks.
 
-  何はともあれ、英語。最新の論文は常に英語で書かれ、出版されます。ほとんどの場合、教科書ですら、英語の文献を参照します。
+  何はともあれ、**英語**。最新の論文は常に英語で書かれ、出版されます。ほとんどの場合、教科書ですら、英語の文献を参照します。
 
 - **Mathematics**, especially 'linear algebra', 'group/ring/field theory', 'probability theory', etc. We use mathematics everywhere to define the security problem, build the solution to the problem, and prove the security of the solution. 
 
-  数論。特に、線形代数、群環体論、確率論、他。これらはセキュリティ課題を定義し、その課題に対する解決策を構築し、その解決策の安全性を証明するため、あらゆるところで使います。
+  **数論**。特に、線形代数、群環体論、確率論、他。これらはセキュリティ課題を定義し、その課題に対する解決策を構築し、その解決策の安全性を証明するため、あらゆるところで使います。
   
 - Basics of coding theory, information theory, computational theory and cryptography in order to build the basic component of security-related networking and computational architecture.
 
@@ -66,9 +66,9 @@ Our research mostly uses some of following tools, and (possibly) highly requires
 
   インターネットの構成を含む「ネットワーク構造」や、「デジタル通信システム」についての知識。例えばTCP/IP、DNSやWi-Fiシステム等。
 
-Before applying the addmission exam, please contact Jun Kurihara first! I believe that we should have a chat beforehand in order to have good research topics at this lab and avoid any misunderstanding on our research.
+**Before applying the addmission exam, please contact Jun Kurihara first!** I believe that we should have a chat beforehand in order to have good research topics at this lab and avoid any misunderstanding on our research.
 
-入試を受ける前に、まず栗原にコンタクトを取って下さい。より良い研究を行うためにも、この研究室での研究に対する誤解を避けるためにも、まずはぜひ相談しましょう！
+**入試を受ける前に、まず栗原にコンタクトを取って下さい**。より良い研究を行うためにも、この研究室での研究に対する誤解を避けるためにも、まずはぜひ相談しましょう！
 
 ---
 
