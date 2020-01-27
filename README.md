@@ -46,7 +46,7 @@
 
 ---
 
-## Information to students who want to study in this lab. 配属を希望する学生の方々へ。
+## Information to students who want to study in this lab. 配属を希望する学生の方々へ
 
 Our research mostly uses some of following tools, and (possibly) highly requires a certain of their background skills and knowledge. Anyways, I believe that the most important thing is the motivation to 'continuously' study these tools. (Even I need to study hard and hard for nicer research!)
 
