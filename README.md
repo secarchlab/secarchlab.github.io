@@ -2,6 +2,9 @@
 
 - Jan. 2020: SecArch Lab. just started! 研究室を立ち上げました！
 
+
+--
+
 ## Research 研究内容
 
 - Information security and privacy mechanisms using coding theoretic techniques, e.g., secret sharing, private information retrieval, etc.
@@ -27,13 +30,19 @@
   
   - Under construction... 構成中
 
+--
 
 ## Member メンバー
 
 ### Faculty 教員
-Jun KURIHARA (栗原 淳), Associate prof.(准教授): [WebSite](https://junkurihara.github.io)
+
+- Jun KURIHARA (栗原 淳), Associate prof.(准教授): [WebSite](https://junkurihara.github.io)
 
 ### Students 学生
+
+- 
+
+--
 
 ## Information to students who want to study in this lab. 配属を希望する学生の方々へ。
 
@@ -41,7 +50,11 @@ Our research mostly uses some of following tools, and (possibly) highly requires
 
 この研究室での研究は、以下のような手法やツールを使って行います。そのため、ある程度のこれらの知識やスキルも重要になってきます。いずれにしろ、これらを継続して習熟しようとするモチベーションが一番重要だと考えます。※栗原ももっと良い研究をするにはまだまだ勉強が足りません！
 
-- Mathematics, especially 'linear algebra', 'group/ring/field theory', 'probability theory', etc. We use mathematics everywhere to define the security problem, build the solution to the problem, and prove the security of the solution. 
+- First of all, **English**. Cutting edge papers are always written and published in English. We mostly refer to English litertures even textbooks.
+
+  何はともあれ、英語。最新の論文は常に英語で書かれ、出版されます。ほとんどの場合、教科書ですら、英語の文献を参照します。
+
+- **Mathematics**, especially 'linear algebra', 'group/ring/field theory', 'probability theory', etc. We use mathematics everywhere to define the security problem, build the solution to the problem, and prove the security of the solution. 
 
   数論。特に、線形代数、群環体論、確率論、他。これらはセキュリティ課題を定義し、その課題に対する解決策を構築し、その解決策の安全性を証明するため、あらゆるところで使います。
   
@@ -57,6 +70,7 @@ Before applying the addmission exam, please contact Jun Kurihara first! I believ
 
 入試を受ける前に、まず栗原にコンタクトを取って下さい。より良い研究を行うためにも、この研究室での研究に対する誤解を避けるためにも、まずはぜひ相談しましょう！
 
+--
 
 ## Contact 連絡先
 
