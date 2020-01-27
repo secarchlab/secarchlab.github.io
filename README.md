@@ -37,7 +37,7 @@
   - Under construction... 構成中
   
 
-For detailed research topics and publication, please check [Kurihara's web site](https://junkurihara.github.io).
+For detailed research topics and publication, please check [Jun's web site](https://junkurihara.github.io).
 
 詳細な研究内容や出版履歴については、[栗原のWebサイト](https://junkurihara.github.io) を参照して下さい。
 
