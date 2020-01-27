@@ -9,6 +9,7 @@
   情報理論や符号理論の技術を用いた、セキュリティ・プライバシ保護手法の研究。例えば、秘密分散法、private information retrievalなど。
 
 - In-network and edge computing architecture, its security and privacy, e.g., new theoretical (and mathematical) framework of secure communication and computation, privacy-preserving computation at untrusted third-party edge environment.
+
   ネットワーク内コンピューティング・エッジコンピューティングなど、新しい計算アーキテクチャにおけるセキュリティやプライバシの数理的フレームワークの研究や、信頼できない計算基盤でのユーザプライバシ保護方法の研究
 
 - Information-centric networking (Named-data networking; NDN) and its brand-new security mechanisms, e.g., security in edge named function environment.
