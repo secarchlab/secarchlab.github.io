@@ -56,6 +56,15 @@ For detailed research topics and publication, please check [Jun's web site](http
 ---
 
 ## Information to students who want to study in this lab. 配属を希望する学生の方々へ
+---
+
+### To start your research activity. 研究を始めるにあたって
+
+We strongly recommend you to read a great guide 'how to research' written by Prof. Tomohiko Uyematsu at Tokyo Tech. All fundamental elements for research are described in the guide. [[link](http://www.it.ce.titech.ac.jp/uyematsu/howtoresearch.pdf)] [[mirror](./repo/howtoresearch.pdf)] (Copyright Prof. Uyematsu)
+
+栗原の師匠である東京工業大学 植松友彦先生の書かれた「研究読本」には必ず目を通すことをお勧めします。 研究を始めるにあたって、必要な事柄が全て記載されています。 [[link](http://www.it.ce.titech.ac.jp/uyematsu/howtoresearch.pdf)] [[mirror](./repo/howtoresearch.pdf)] (Copyright Prof. Uyematsu)
+
+### Research style and tools in our lab. この研究室の研究スタイルとか
 
 Our research mostly uses some of following tools, and (possibly) highly requires a certain of their background skills and knowledge. Anyways, I believe that the most important thing is the motivation to 'continuously' study these tools. (Even I need to study hard and hard for nicer research!)
 
@@ -80,6 +89,22 @@ Our research mostly uses some of following tools, and (possibly) highly requires
 **Before applying the addmission exam, please contact Jun Kurihara first!** I believe that we should have a chat beforehand in order to have good research topics at this lab and avoid any misunderstanding on our research.
 
 **入試を受ける前に、まず栗原にコンタクトを取って下さい**。より良い研究を行うためにも、この研究室での研究に対する誤解を避けるためにも、まずはぜひ相談しましょう！
+
+---
+
+### Environments to research 研究するための環境とか
+
+- Unix-like systmes: We shall use \*NIX (Linux, BSD, etc.) for almost all research activities, e.g., calculation, computing, building Proof-of-Concept systems, writing papers, presentation, etc. This is because most of architectural elements in network systems adopt *NIX systems.
+
+  何をするにも\*NIX環境 (Linux, BSD他) を利用します。計算、PoCシステムの構築、論文執筆、プレゼン等々。これは、ネットワークシステムの構成要素はほぼ*NIXシステムを採用しているためです。
+
+- LaTeX: We mostly use LaTeX to write papers and make presentation slides for better visualized mathematical expressions. If possible, we shall make our papers, slides and their sources public.
+
+  論文執筆やプレゼン資料作成には、より「マシ」な数式表現のためにLaTexを使います。可能な場合は、論文・スライド・ソースコードなどを公開していく予定です。
+
+- Modern tools and cloud services: We import approaches in modern 'software development' to our research activities, and useful software tools and cloud services to accelerate our 'collaborative' research work. In particular, we shall use Git (and GitHub), AWS／Azure／GCP, VPS (virtual private server), CI (continuous integration services like CircleCI) etc.
+
+  無駄を省くために、モダンなツールやクラウドサービスを利用します。ソフトウェア開発の手法を活用して、共同での論文執筆や研究活動を加速させていきます。例えば、Git (およびGitHub) の積極的な利用や、AWS/Azure/GCP、VPSやCIの利用など。
 
 ---
 
