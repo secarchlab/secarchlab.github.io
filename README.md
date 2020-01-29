@@ -104,7 +104,7 @@ Our research mostly uses some of following tools, and (possibly) highly requires
 
   論文執筆やプレゼン資料作成には、より「マシ」な数式表現のためにLaTexを使います。可能な場合は、論文・スライド・ソースコードなどを公開していく予定です。
 
-- Modern tools and cloud services: We import approaches in modern 'software development' to our research activities, and useful software tools and cloud services to accelerate our 'collaborative' research work. In particular, we shall use Git (and GitHub), AWS／Azure／GCP, VPS (virtual private server), CI (continuous integration services like CircleCI) etc.
+- Modern tools and cloud services: We import approaches in modern 'software development' to our research activities, and useful software tools and cloud services to accelerate our 'collaborative' research work. In particular, we shall use Git (and GitHub), AWS/Azure/GCP, VPS (virtual private server), CI (continuous integration services like CircleCI) etc.
 
   無駄を省くために、モダンなツールやクラウドサービスを利用します。ソフトウェア開発の手法を活用して、共同での論文執筆や研究活動を加速させていきます。例えば、Git (およびGitHub) の積極的な利用や、AWS/Azure/GCP、VPSやCIの利用など。
 
