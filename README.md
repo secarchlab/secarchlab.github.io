@@ -64,6 +64,8 @@ We strongly recommend you to read a great guide 'how to research' written by Pro
 
 栗原の師匠である東京工業大学 植松友彦先生の書かれた「研究読本」には必ず目を通すことをお勧めします。 研究を始めるにあたって、必要な事柄が全て記載されています。 [[link](http://www.it.ce.titech.ac.jp/uyematsu/howtoresearch.pdf)] [[mirror](./repo/howtoresearch.pdf)] (Copyright Prof. Uyematsu)
 
+---
+
 ### Research style and tools in our lab. この研究室の研究スタイルとか
 
 Our research mostly uses some of following tools, and (possibly) highly requires a certain of their background skills and knowledge. Anyways, I believe that the most important thing is the motivation to 'continuously' study these tools. (Even I need to study hard and hard for nicer research!)
