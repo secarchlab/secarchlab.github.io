@@ -8,7 +8,6 @@
 
 - Jan. 2020: SecArch Lab. just started! 研究室を立ち上げました！
 
-
 ---
 
 ## Research 研究内容
@@ -47,15 +46,21 @@ For detailed research topics and publication, please check [Jun's web site](http
 
 ### Faculty 教員
 
-- Jun KURIHARA (栗原 淳), Associate prof.(准教授): [WebSite](https://junkurihara.github.io)
+- Jun KURIHARA (栗原 淳) (Associate Prof. (准教授)) [[WebSite](https://junkurihara.github.io)]
 
 ### Students 学生
 
-- 
+- (From next fiscal year; 次年度から)
 
 ---
 
 ## Information to students who want to study in this lab. 配属を希望する学生の方々へ
+
+
+**Before applying the admission exam, please contact Jun Kurihara first!** I believe that we should have a chat beforehand in order to have good research topics at this lab and avoid any misunderstanding on our research.
+
+**入試を受ける前に、まず栗原にコンタクトを取って下さい**。より良い研究を行うためにも、この研究室での研究に対する誤解を避けるためにも、まずはぜひ相談しましょう！
+
 ---
 
 ### To start your research activity. 研究を始めるにあたって
@@ -87,10 +92,6 @@ Our research mostly uses some of following tools, and (possibly) highly requires
 - Knowledge on 'networking architecture' including the architecture of the Internet, and 'system of digital communication'. e.g., TCP/IP, DNS, Wi-Fi system, etc.
 
   インターネットの構成を含む「ネットワーク構造」や、「デジタル通信システム」についての知識。例えばTCP/IP、DNSやWi-Fiシステム等。
-
-**Before applying the addmission exam, please contact Jun Kurihara first!** I believe that we should have a chat beforehand in order to have good research topics at this lab and avoid any misunderstanding on our research.
-
-**入試を受ける前に、まず栗原にコンタクトを取って下さい**。より良い研究を行うためにも、この研究室での研究に対する誤解を避けるためにも、まずはぜひ相談しましょう！
 
 ---
 
