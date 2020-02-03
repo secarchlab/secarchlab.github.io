@@ -6,6 +6,7 @@
 
 ## News
 
+- Feb. 2020: Published a survey article "Network Operations as an Infrastructure for Diverse Businesses" coauthored by Jun at Journal of IEICE. 電子情報通信学会誌に、栗原が共著のサーベイ記事「多様なビジネスの収容基盤としてのネットワークとその課題──著作権保護や消費税徴収等に関わる技術的・法的課題──」が掲載されました。[[Link to summary](https://www.journal.ieice.org/summary.php?id=k103_2_155&year=2020&lang=J)]
 - Jan. 2020: SecArch Lab. just started! 研究室を立ち上げました！
 
 ---
@@ -91,7 +92,7 @@ Our research mostly uses some of following tools, and (possibly) highly requires
   
 - Knowledge on 'networking architecture' including the architecture of the Internet, and 'system of digital communication'. e.g., TCP/IP, DNS, Wi-Fi system, etc.
 
-  インターネットの構成を含む「ネットワーク構造」や、「デジタル通信システム」についての知識。例えばTCP/IP、DNSやWi-Fiシステム等。
+  インターネットの構成を含む「ネットワーク構造」や「デジタル通信システム」、また「計算機アーキテクチャ」についての知識。例えばTCP/IP、DNSやWi-Fiシステム、OSや仮想化技術、等。
 
 ---
 
