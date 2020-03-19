@@ -55,20 +55,18 @@ For detailed research topics and publication, please check [Jun's web site](http
 
 ---
 
-## Information to students who want to study in this lab. 配属を希望する学生の方々へ
+## Information to students. 学生の方々へ
 
 
-**Before applying the admission exam, please contact Jun Kurihara first!** I believe that we should have a chat beforehand in order to have good research topics at this lab and avoid any misunderstanding on our research.
-
-**入試を受ける前に、まず栗原にコンタクトを取って下さい**。より良い研究を行うためにも、この研究室での研究に対する誤解を避けるためにも、まずはぜひ相談しましょう！
-
----
-
-### To start your research activity. 研究を始めるにあたって
+### To choose your supervisor, and to start your research activity. 研究室選び、そして研究を始めるにあたって
 
 We strongly recommend you to read a great guide 'how to research' written by Prof. Tomohiko Uyematsu at Tokyo Tech. All fundamental elements for research are described in the guide. [[link](http://www.it.ce.titech.ac.jp/uyematsu/howtoresearch.pdf)] [[mirror](./repo/howtoresearch.pdf)] (Copyright Prof. Uyematsu)
 
-栗原の師匠である東京工業大学 植松友彦先生の書かれた「研究読本」には必ず目を通すことをお勧めします。 研究を始めるにあたって、必要な事柄が全て記載されています。 [[link](http://www.it.ce.titech.ac.jp/uyematsu/howtoresearch.pdf)] [[mirror](./repo/howtoresearch.pdf)] (Copyright Prof. Uyematsu)
+栗原の師匠である**東京工業大学 植松友彦先生の書かれた「研究読本」には必ず目を通しましょう**。 研究室を選んで、そして研究を始めるにあたって、必要な事柄が全て記載されています。 [[link](http://www.it.ce.titech.ac.jp/uyematsu/howtoresearch.pdf)] [[mirror](./repo/howtoresearch.pdf)] (Copyright Prof. Uyematsu)
+
+**If you wish to research in this lab, please contact Jun Kurihara before applying the admission exam.** I believe that we should have a chat (F2F or online) beforehand in order to have good research topics at this lab and avoid any misunderstanding on our research.
+
+**もしこの研究室で研究したいと思ったら、入試を受ける前にまず栗原にコンタクトを取りましょう**。より良い研究を行うためにも、この研究室での研究に対する誤解を避けるためにも、まずはぜひお話ししましょう！F2Fでもオンラインでも対応します。
 
 ---
 
