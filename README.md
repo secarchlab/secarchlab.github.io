@@ -60,7 +60,7 @@ For detailed research topics and publication, please check [Jun's web site](http
 
 ### To choose your supervisor, and to start your research activity. 研究室選び、そして研究を始めるにあたって
 
-We strongly recommend you to read a great guide 'how to research' written by Prof. Tomohiko Uyematsu at Tokyo Tech. All fundamental elements for research are described in the guide. [[link](http://www.it.ce.titech.ac.jp/uyematsu/howtoresearch.pdf)] [[mirror](./repo/howtoresearch.pdf)] (Copyright Prof. Uyematsu)
+**We strongly recommend you to read a great guide 'how to research' written by Prof. Tomohiko Uyematsu at Tokyo Tech**. All fundamental elements for research are described in the guide. [[link](http://www.it.ce.titech.ac.jp/uyematsu/howtoresearch.pdf)] [[mirror](./repo/howtoresearch.pdf)] (Copyright Prof. Uyematsu)
 
 栗原の師匠である**東京工業大学 植松友彦先生の書かれた「研究読本」には必ず目を通しましょう**。 研究室を選んで、そして研究を始めるにあたって、必要な事柄が全て記載されています。 [[link](http://www.it.ce.titech.ac.jp/uyematsu/howtoresearch.pdf)] [[mirror](./repo/howtoresearch.pdf)] (Copyright Prof. Uyematsu)
 
