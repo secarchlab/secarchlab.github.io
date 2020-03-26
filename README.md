@@ -6,6 +6,7 @@
 
 ## News
 
+- Mar. 2020: Uploaded slides for introduction to this lab for students. 学生の方々向けに、研究室の紹介スライドをアップしました。 [[Link to PDF](./repo/lab-info-20200326.pdf)]
 - Feb. 2020: Published a survey article "Network Operations as an Infrastructure for Diverse Businesses" coauthored by Jun at Journal of IEICE. 電子情報通信学会誌に、栗原が共著のサーベイ記事「多様なビジネスの収容基盤としてのネットワークとその課題──著作権保護や消費税徴収等に関わる技術的・法的課題──」が掲載されました。[[Link to summary](https://www.journal.ieice.org/summary.php?id=k103_2_155&year=2020&lang=J)]
 - Jan. 2020: SecArch Lab. just started! 研究室を立ち上げました！
 
@@ -37,9 +38,10 @@
   - Under construction... 構成中
   
 
-For detailed research topics and publication, please check [Jun's web site](https://junkurihara.github.io).
+For detailed research topics and publication, please check [Jun's web site](https://junkurihara.github.io). Also for students, please check [[the slides for introduction to this lab (PDF)](./repo/lab-info-20200326.pdf)]
 
 詳細な研究内容や出版履歴については、[栗原のWebサイト](https://junkurihara.github.io) を参照して下さい。
+学生の方向けの[[研究室紹介資料 (PDF)](./repo/lab-info-20200326.pdf)]もご参照下さい。
 
 ---
 
@@ -47,7 +49,7 @@ For detailed research topics and publication, please check [Jun's web site](http
 
 ### Faculty 教員
 
-- Jun KURIHARA (栗原 淳) (Associate Prof. (准教授)) [[WebSite](https://junkurihara.github.io)]
+- Jun KURIHARA / 栗原 淳 [[WebSite](https://junkurihara.github.io)]
 
 ### Students 学生
 
@@ -57,6 +59,7 @@ For detailed research topics and publication, please check [Jun's web site](http
 
 ## Information to students. 学生の方々へ
 
+※Introduction to this lab. 研究室紹介資料 [[Link to PDF](./repo/lab-info-20200326.pdf)]
 
 ### To choose your supervisor, and to start your research activity. 研究室選び、そして研究を始めるにあたって
 
