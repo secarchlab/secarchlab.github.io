@@ -39,7 +39,8 @@
 
   ネットワーク内コンピューティング・エッジコンピューティングなど、新しい計算アーキテクチャにおけるセキュリティやプライバシの数理的フレームワークの研究や、信頼できない計算基盤でのユーザプライバシ保護方法の研究
   
-  - Under construction... 構成中
+  - Analysis on the resistance to Byzantine and unresponsive servers in PIR schemes from coded-storage (IEICE ComEx 2020): 情報検索におけるプライバシ保護プロトコル「Private Information Retrieval」でデータサーバに攻撃者が含まれていた場合に正しく情報が取得できる限界値を解明する研究。
+  - etc.
   
 
 For detailed research topics and publication, please check [Jun's web site](https://junkurihara.github.io). Also for students, please check [[the slides for introduction to this lab (PDF)](./repo/lab-info-20200326.pdf)]
