@@ -6,6 +6,10 @@
 
 ## News
 
+- Apr. 2020: Our paper on private information retrieval was accepted by IEICE Communications Express (ComEx). PIRについての原稿がIEICE ComExに採録されました。
+  
+  > Jun Kurihara and Toru Nakamura, ``On the Resistance to Byzantine and Unresponsive Servers in Code-based PIR Schemes,'' to appear in *IEICE Communication Express*, 2020.
+
 - Mar. 2020: Uploaded slides for introduction to this lab for students. 学生の方々向けに、研究室の紹介スライドをアップしました。 [[Link to PDF](./repo/lab-info-20200326.pdf)]
 - Feb. 2020: Published a survey article "Network Operations as an Infrastructure for Diverse Businesses" coauthored by Jun at Journal of IEICE. 電子情報通信学会誌に、栗原が共著のサーベイ記事「多様なビジネスの収容基盤としてのネットワークとその課題──著作権保護や消費税徴収等に関わる技術的・法的課題──」が掲載されました。[[Link to summary](https://www.journal.ieice.org/summary.php?id=k103_2_155&year=2020&lang=J)]
 - Jan. 2020: SecArch Lab. just started! 研究室を立ち上げました！
