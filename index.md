@@ -1,6 +1,6 @@
 # Welcome to SecArch Lab.
 
-**Secure Architecture Lab., Graduate School of Informatics, University of Hyogo**
+**Secure Architecture Lab., Graduate School of Applied Informatics, University of Hyogo**
 
 **兵庫県立大学 大学院応用情報科学研究科 セキュアアーキテクチャ研究室**
 
