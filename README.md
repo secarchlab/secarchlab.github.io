@@ -1,8 +1,3 @@
----
-layout: default
-title: top
----
-
 # SecArch Lab
 
 **兵庫県立大学 大学院応用情報科学研究科 セキュアアーキテクチャ研究室**
