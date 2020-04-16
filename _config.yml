@@ -4,5 +4,5 @@ timezone: Asia/Tokyo
 url: "https://secarchlab.github.io"
 baseurl: ""
 github:
-  is_project_page: true
+  is_project_page: false
 google_analytics: UA-163123480-1
