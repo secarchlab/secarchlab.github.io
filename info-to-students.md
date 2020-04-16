@@ -2,15 +2,13 @@
 
 ※ Introduction to this lab. 研究室紹介資料 [[Link to PDF](./repo/lab-info-20200326.pdf)]
 
+---
+
 ## To choose your supervisor, and to start your research activity. 研究室選び、そして研究を始めるにあたって
 
 **We strongly recommend you to read a great guide 'how to research' written by Prof. Tomohiko Uyematsu at Tokyo Tech**. All fundamental elements for research are described in the guide. [[link](http://www.it.ce.titech.ac.jp/uyematsu/howtoresearch.pdf)] [[mirror](./repo/howtoresearch.pdf)] (Copyright Prof. Uyematsu)
 
 栗原の師匠である**東京工業大学 植松友彦先生の書かれた「研究読本」には必ず目を通しましょう**。 研究室を選んで、そして研究を始めるにあたって、必要な事柄が全て記載されています。 [[link](http://www.it.ce.titech.ac.jp/uyematsu/howtoresearch.pdf)] [[mirror](./repo/howtoresearch.pdf)] (Copyright Prof. Uyematsu)
-
-**If you wish to research in this lab, please contact Jun Kurihara before applying the admission exam.** I believe that we should have a chat (F2F or online) beforehand in order to have good research topics at this lab and avoid any misunderstanding on our research.
-
-**もしこの研究室で研究したいと思ったら、入試を受ける前にまず栗原にコンタクトを取りましょう**。より良い研究を行うためにも、この研究室での研究に対する誤解を避けるためにも、まずはぜひお話ししましょう！F2Fでもオンラインでも対応します。
 
 ---
 
@@ -51,5 +49,3 @@ Our research mostly uses some of following tools, and (possibly) highly requires
 - Modern tools and cloud services: We import approaches in modern 'software development' to our research activities, and use software development tools and cloud services to accelerate our 'online-collaborative' research work.  we shall use Git (and GitHub), AWS/Azure/GCP, VPS (virtual private server), CI (continuous integration services like CircleCI) etc.
 
   無駄を省くために、モダンなツールやクラウドサービスを利用します。ソフトウェア開発の手法を活用して、(オンラインかつ)共同での論文執筆や研究活動を加速します。例えば、Git (およびGitHub) の積極的な利用や、AWS/Azure/GCP、VPSやCIの利用など。
-
-## [[トップページ]](./README.md)

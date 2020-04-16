@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to SecArch Lab.
 
 **Secure Architecture Lab., Graduate School of Informatics, University of Hyogo**
 
@@ -65,11 +65,11 @@ For detailed research topics and publication, please check [Jun's web site](http
 
 ## Information to students. 学生の方々へ
 
-If you are interested in studying at our lab, **please check [this page](./info-to-students.md) which summarizes how to choose your supervisor and our research style in this lab**.
+If you are interested in studying at our lab, **please check [this page](./info-to-students.md) which summarizes how to choose your supervisor and our research style in this lab**. **If you wish to research in this lab, please contact Jun Kurihara before applying the admission exam.** I believe that we should have a chat (F2F or online) beforehand in order to have good research topics at this lab and avoid any misunderstanding on our research.
 
 Also see the [list of guides for 'good' research](./how-to-research-guides.md) (in Japanese).
 
-この研究室での研究に興味がありましたらば、**まず必ず[研究室の選び方や我々の研究スタイルをまとめているページ](./info-to-students.md)をチェックして下さい**。
+この研究室での研究に興味がありましたらば、**まず必ず[研究室の選び方や我々の研究スタイルをまとめているページ](./info-to-students.md)をチェックして下さい**。**もしこの研究室で研究したいと思ったら、入試を受ける前に栗原にコンタクトを取りましょう**。より良い研究を行うためにも、この研究室での研究に対する誤解を避けるためにも、まずはぜひお話ししましょう！F2Fでもオンラインでも対応します。
 
 また、[良い研究をするための指南書リスト](./how-to-research-guides.md)も適宜更新していますので、参考にしてみてください。
 
