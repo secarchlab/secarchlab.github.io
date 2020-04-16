@@ -14,4 +14,6 @@
 
 非常に正しい論文の読み方をわかりやすく指南してくれるスライド。論文を読む＝その分野を俯瞰する、というイメージが掴めると思います。[[link (SpeakerDeck)](https://speakerdeck.com/kaityo256/how-to-survey)] [[mirror](./repo/howtosurvey.pdf)] (Copyright Prof. Watanabe)
 
-## [[トップページ]](./index.md)
+---
+
+ **[[Back to top page]](./index.md)**

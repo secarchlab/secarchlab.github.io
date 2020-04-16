@@ -49,3 +49,7 @@ Our research mostly uses some of following tools, and (possibly) highly requires
 - Modern tools and cloud services: We import approaches in modern 'software development' to our research activities, and use software development tools and cloud services to accelerate our 'online-collaborative' research work.  we shall use Git (and GitHub), AWS/Azure/GCP, VPS (virtual private server), CI (continuous integration services like CircleCI) etc.
 
   無駄を省くために、モダンなツールやクラウドサービスを利用します。ソフトウェア開発の手法を活用して、(オンラインかつ)共同での論文執筆や研究活動を加速します。例えば、Git (およびGitHub) の積極的な利用や、AWS/Azure/GCP、VPSやCIの利用など。
+
+---
+
+**[[Back to top page]](./index.md)**
