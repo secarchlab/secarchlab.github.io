@@ -1,6 +1,6 @@
 # SecArch Lab
 
-兵庫県立大学 大学院応用情報科学研究科 セキュアアーキテクチャ研究室
+**兵庫県立大学 大学院応用情報科学研究科 セキュアアーキテクチャ研究室**
 
 ---
 
@@ -61,15 +61,15 @@ For detailed research topics and publication, please check [Jun's web site](http
 
 ---
 
-## Information for students. 学生の方々へ
+## Information to students. 学生の方々へ
 
-If you are interested in studying at our lab, please check [this page](./info-for-students.md) which summarizes how to choose your supervisor and our research style in this lab.
+If you are interested in studying at our lab, **please check [this page](./info-to-students.md) which summarizes how to choose your supervisor and our research style in this lab**.
 
-この研究室での研究に興味がありましたらば、まず必ず[研究室の選び方や我々の研究スタイルをまとめているページ](./info-for-students.md)をチェックして下さい。
+Also see the [list of guides for 'good' research](./how-to-research-guides.md) (in Japanese).
 
-Also see the [list of guides for 'good' research](./howtoresearch-memo.md) (in Japanese).
+この研究室での研究に興味がありましたらば、**まず必ず[研究室の選び方や我々の研究スタイルをまとめているページ](./info-to-students.md)をチェックして下さい**。
 
-また、[良い研究をするための指南書リスト](./howtoresearch-memo.md)も適宜作っていますので、参考にしてみてください。
+また、[良い研究をするための指南書リスト](./how-to-research-guides.md)も適宜更新していますので、参考にしてみてください。
 
 ---
 
