@@ -8,7 +8,7 @@
 
 ## News
 
-- Apr. 2020: Our paper on private information retrieval was accepted by IEICE Communications Express (ComEx). PIRについての原稿がIEICE ComExに採録されました。
+- Apr. 2020: Our paper on private information retrieval was accepted by IEICE Communications Express (ComEx). PIRについての原稿がIEICE ComExに採録されました。[[Link (jst.go.jp)](https://www.jstage.jst.go.jp/article/comex/advpub/0/advpub_2020XBL0055/_article)]
   
   > Jun Kurihara and Toru Nakamura, ``On the Resistance to Byzantine and Unresponsive Servers in Code-based PIR Schemes,'' to appear in *IEICE Communications Express*, 2020.
 
