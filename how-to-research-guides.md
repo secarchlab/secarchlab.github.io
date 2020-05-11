@@ -16,4 +16,10 @@
 
 ---
 
+## Waterloo大学 S. Keshav先生 「How to Read a Paper」
+
+こちらも渡辺先生の文献と近い示唆を与えていますが、「3回読む」「読み方はこうだ」という感じで少々具体的な内容に踏み込んでいます。渡辺先生のスライドと合わせて読むと良いでしょう。 [[Link (PDF)](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)] [[mirror](./repo/paper-reading.pdf)] (Copyright Prof. Keshav) [[日本語抄訳 (Qiita)](https://qiita.com/cirusthenter/items/2e508c5fb3e824312918)]
+
+---
+
  **[[Back to top page]](./index.md)**
