@@ -8,6 +8,8 @@
 
 ## News
 
+- Jul. 2020: We started a joint research project with Cyber Security Lab. of KDDI Research, Inc.
+
 - Apr. 2020: Our paper on private information retrieval was accepted by IEICE Communications Express (ComEx). PIRについての原稿がIEICE ComExに採録されました。[[Link (jst.go.jp)](https://www.jstage.jst.go.jp/article/comex/advpub/0/advpub_2020XBL0055/_article)]
   
   > Jun Kurihara and Toru Nakamura, ``On the Resistance to Byzantine and Unresponsive Servers in Code-based PIR Schemes,'' to appear in *IEICE Communications Express*, 2020.
@@ -72,6 +74,17 @@ Also see the [list of guides for 'good' research](./how-to-research-guides.md) (
 この研究室での研究に興味がありましたらば、**まず必ず[研究室の選び方や我々の研究スタイルをまとめているページ](./info-to-students.md)をチェックして下さい**。**もしこの研究室で研究したいと思ったら、入試を受ける前に栗原にコンタクトを取りましょう**。より良い研究を行うためにも、この研究室での研究に対する誤解を避けるためにも、まずはぜひお話ししましょう！F2Fでもオンラインでも対応します。
 
 また、[良い研究をするための指南書リスト](./how-to-research-guides.md)も適宜更新していますので、参考にしてみてください。
+
+---
+
+## About Funded Research. 受託・共同研究について
+
+We are welcome to manage joint research projects with private companies.
+Currently we have funded and joint research projects from the followings.
+
+企業からの受託・共同研究を受け入れています。現在は以下の企業と実施しています。
+
+- KDDI Research Inc.
 
 ---
 
