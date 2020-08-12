@@ -77,14 +77,18 @@ Also see the [list of guides for 'good' research](./how-to-research-guides.md) (
 
 ---
 
-## About Funded Research. 受託・共同研究について
+## Funded research project. 受託・共同研究について
 
 We are welcome to manage joint research projects with private companies.
 Currently we have funded and joint research projects from the followings.
 
 企業からの受託・共同研究を受け入れています。現在は以下の企業と実施しています。
 
-- KDDI Research Inc.
+- KDDI総合研究所/KDDI Research Inc.
+
+## Grants
+
+- 兵庫県立大学 特別研究助成金 (若手研究支援) 2020 / Special Research Grant, University of Hyogo, 2020
 
 ---
 
