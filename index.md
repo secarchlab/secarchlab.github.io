@@ -8,6 +8,8 @@
 
 ## News
 
+- Sep. 2020: Jun gave a presentation on the robustness of private information retrieval at the Workshop on Error-Correcting Codes (ECCWS). 栗原が秘匿検索のロバスト性について「誤り訂正符号のワークショップ」にて発表しました。[[ECCWS](https://manau.jp/WS/ECCWS/)]
+
 - Jul. 2020: We started a joint research project with Cyber Security Lab. of KDDI Research, Inc.
 
 - Apr. 2020: Our paper on private information retrieval was accepted by IEICE Communications Express (ComEx). PIRについての原稿がIEICE ComExに採録されました。[[Link (jst.go.jp)](https://www.jstage.jst.go.jp/article/comex/advpub/0/advpub_2020XBL0055/_article)]
