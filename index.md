@@ -2,10 +2,9 @@
 
 **兵庫県立大学 大学院応用情報科学研究科 セキュアアーキテクチャ研究室**
 
----
-
 [**[English page is here.]**](./eng.md)
 
+---
 ## News
 
 - Sep. 2020: 栗原が秘匿検索のロバスト性について「誤り訂正符号のワークショップ」にて発表しました。[[ECCWS](https://manau.jp/WS/ECCWS/)]
@@ -17,17 +16,14 @@
 
 ---
 
-- [**研究室について**](./ja/about.md)
-  - 参考用: [研究室紹介資料 (PDF)](../repo/lab-info-20200326.pdf)
-- [**研究室所属を希望する学生の方々へ**](./ja/to-students.md)
-- [**研究指南書リスト**](../ja/research-guides.md)
+## 学生募集
 
----
-## メンバー
+セキュアアーキテクチャ研究室では、博士前期/後期課程の学生を受け入れています。
 
-### 教員
+- [**この研究室へ所属を希望する学生の方々へ**](./ja/to-students.md)
 
-- 栗原 淳 (くりはら じゅん) [[WebSite](https://junkurihara.github.io)]
+  - 参考: [研究室紹介資料 (PDF)](../repo/lab-info-20200326.pdf)
+  - 参考: [研究指南書リスト](../ja/research-guides.md)
 
 ---
 
@@ -44,7 +40,6 @@
 
 ---
 
-## Contact 連絡先
+## 連絡先
 
 - E-mail: kurihara (at) ai (dot) u (hyphen) hyogo (dot) ac (dot) jp
-- 住所: 650-0047 兵庫県神戸市中央区港島南町7丁目1番28 計算科学センタービル
