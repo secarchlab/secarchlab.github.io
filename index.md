@@ -4,7 +4,7 @@
 
 ---
 
-[[English page is here.]](./eng.md)
+[**[English page is here.]**](./eng.md)
 
 ## News
 
