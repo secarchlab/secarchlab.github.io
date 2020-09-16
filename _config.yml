@@ -1,8 +1,4 @@
 theme: jekyll-theme-architect
 title: Secure Archtecture Lab., GSAI, U-Hyogo
-timezone: Asia/Tokyo
-url: "https://secarchlab.github.io"
-baseurl: ""
-github:
-  is_project_page: false
+
 google_analytics: UA-163123480-1
