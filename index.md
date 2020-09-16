@@ -22,8 +22,8 @@
 
 - [**この研究室へ所属を希望する学生の方々へ**](./ja/to-students.md)
 
-  - 参考: [研究室紹介資料 (PDF)](../repo/lab-info-20200326.pdf)
-  - 参考: [研究指南書リスト](../ja/research-guides.md)
+  - 参考: [研究室紹介資料 (PDF)](./repo/lab-info-20200326.pdf)
+  - 参考: [研究指南書リスト](./ja/research-guides.md)
 
 ---
 
