@@ -1,4 +1,5 @@
 theme: jekyll-theme-architect
 title: Secure Archtecture Lab., GSAI, U-Hyogo
-
+description:
+show_downloads: false
 google_analytics: UA-163123480-1
