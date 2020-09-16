@@ -7,13 +7,9 @@
 ## News
 
 - Sep. 2020: Jun gave a presentation on the robustness of private information retrieval at the Workshop on Error-Correcting Codes (ECCWS). [[ECCWS](https://manau.jp/WS/ECCWS/)]
-
 - Jul. 2020: We started a joint research project with Cyber Security Lab. of KDDI Research, Inc.
-
 - Apr. 2020: Our paper on private information retrieval was accepted by IEICE Communications Express (ComEx). [[Link (jst.go.jp)](https://www.jstage.jst.go.jp/article/comex/advpub/0/advpub_2020XBL0055/_article)]
-  
   > Jun Kurihara and Toru Nakamura, ``On the Resistance to Byzantine and Unresponsive Servers in Code-based PIR Schemes,'' to appear in *IEICE Communications Express*, 2020.
-
 - Mar. 2020: Uploaded slides for introduction to this lab for students. [[Link to PDF](./repo/lab-info-20200326.pdf)]
 - Feb. 2020: Published a survey article "Network Operations as an Infrastructure for Diverse Businesses" coauthored by Jun at Journal of IEICE. [[Link to summary](https://www.journal.ieice.org/summary.php?id=k103_2_155&year=2020&lang=J)]
 - Jan. 2020: SecArch Lab. just started! 
@@ -51,7 +47,7 @@ For detailed research topics and publication, please check [Jun's web site](http
 
 ## Information to students.
 
-If you are interested in studying at our lab, **please check [this page](./info-to-students.md) which summarizes how to choose your supervisor and our research style in this lab**. **If you wish to research in this lab, please contact Jun Kurihara before applying the admission exam.** I believe that we should have a chat (F2F or online) beforehand in order to have good research topics at this lab and avoid any misunderstanding on our research.
+If you are interested in studying at our lab, **please check [this page](./en/to-students.md) which summarizes how to choose your supervisor and our research style in this lab**. **If you wish to research in this lab, please contact Jun Kurihara before applying the admission exam.** I believe that we should have a chat (F2F or online) beforehand in order to have good research topics at this lab and avoid any misunderstanding on our research.
 
 ---
 
