@@ -7,9 +7,11 @@
 ---
 ## News
 
+- Jan. 2021: 栗原が共著の漏洩耐性暗号システムの論文がIEICE Transactionsに掲載されました。 [[Link (jst.go.jp)](https://www.jstage.jst.go.jp/article/transfun/E104.A/1/E104.A_2020CIP0026/_article)]
+  > Yuji Koike, Takuya Hayashi, Jun Kurihara and Takanori Isobe, ``Virtual Vault: A Practical Leakage Resilient Scheme Using Space-Hard Ciphers,'' *IEICE Trans. Fundamentals*, vol. 104, no. 1, pp. 182--189, Jan. 2021.
 - Sep. 2020: 栗原が秘匿検索のロバスト性について「誤り訂正符号のワークショップ」にて発表しました。[[ECCWS](https://manau.jp/WS/ECCWS/)]
 - Apr. 2020: 秘匿検索についての原稿がIEICE ComExに採録されました。[[Link (jst.go.jp)](https://www.jstage.jst.go.jp/article/comex/advpub/0/advpub_2020XBL0055/_article)]
-  > Jun Kurihara and Toru Nakamura, ``On the Resistance to Byzantine and Unresponsive Servers in Code-based PIR Schemes,'' to appear in *IEICE Communications Express*, 2020.
+  > Jun Kurihara and Toru Nakamura, ``On the Resistance to Byzantine and Unresponsive Servers in Code-based PIR Schemes,'' *IEICE Communications Express*, vol. 9, no. 7, pp. 342--347, Jul. 2020.
 - Mar. 2020: 学生の方々向けに、研究室の紹介スライドをアップしました。 [[Link to PDF](./repo/lab-info-20200326.pdf)]
 - Feb. 2020: 電子情報通信学会誌に、栗原が共著のサーベイ記事「多様なビジネスの収容基盤としてのネットワークとその課題──著作権保護や消費税徴収等に関わる技術的・法的課題──」が掲載されました。[[Link to summary](https://www.journal.ieice.org/summary.php?id=k103_2_155&year=2020&lang=J)]
 - Jan. 2020: 研究室を立ち上げました！
