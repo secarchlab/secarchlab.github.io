@@ -6,6 +6,8 @@
 
 ## News
 
+- Mar. 2021: A paper on code-based private information retrieval scheme was accepted to IEICE Transactions.
+  > Jun Kurihara, Toru Nakamura and Ryu Watanabe, ``Private Information Retrieval from Coded Storage in the Presence of Omniscient and Limited-Knowledge Byzantine Adversaries,'' to appear in IEICE Trans. Fundamentals, 2021.
 - Jan. 2021: A paper coauthored by Jun about leakage resilient cryptographic system was accepted and appeared in IEICE Transactions. [[Link (jst.go.jp)](https://www.jstage.jst.go.jp/article/transfun/E104.A/1/E104.A_2020CIP0026/_article)]
   > Yuji Koike, Takuya Hayashi, Jun Kurihara and Takanori Isobe, ``Virtual Vault: A Practical Leakage Resilient Scheme Using Space-Hard Ciphers,'' *IEICE Trans. Fundamentals*, vol. 104, no. 1, pp. 182--189, Jan. 2021.
 - Sep. 2020: Jun gave a presentation on the robustness of private information retrieval at the Workshop on Error-Correcting Codes (ECCWS). [[ECCWS](https://manau.jp/WS/ECCWS/)]

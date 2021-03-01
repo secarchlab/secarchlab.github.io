@@ -7,6 +7,8 @@
 ---
 ## News
 
+- Mar. 2021: 符号化ストレージに対する秘匿検索技術について、栗原が主著者の論文がIEICE Transactionsに採録されました。
+  > Jun Kurihara, Toru Nakamura and Ryu Watanabe, ``Private Information Retrieval from Coded Storage in the Presence of Omniscient and Limited-Knowledge Byzantine Adversaries,'' to appear in IEICE Trans. Fundamentals, 2021.
 - Jan. 2021: 栗原が共著の漏洩耐性暗号システムの論文がIEICE Transactionsに掲載されました。 [[Link (jst.go.jp)](https://www.jstage.jst.go.jp/article/transfun/E104.A/1/E104.A_2020CIP0026/_article)]
   > Yuji Koike, Takuya Hayashi, Jun Kurihara and Takanori Isobe, ``Virtual Vault: A Practical Leakage Resilient Scheme Using Space-Hard Ciphers,'' *IEICE Trans. Fundamentals*, vol. 104, no. 1, pp. 182--189, Jan. 2021.
 - Sep. 2020: 栗原が秘匿検索のロバスト性について「誤り訂正符号のワークショップ」にて発表しました。[[ECCWS](https://manau.jp/WS/ECCWS/)]
