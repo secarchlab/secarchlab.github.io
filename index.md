@@ -7,8 +7,12 @@
 ---
 ## News
 
+- Mar. 2021: ATRのセミナーで発表しました。スライドは[こちら(Slideshare)](https://www.slideshare.net/JunKurihara2/20210315atr-seminer)。
+  > 栗原 淳, ``DNSにおけるセキュリティ＆プライバシ動向''
 - Mar. 2021: 符号化ストレージに対する秘匿検索技術について、栗原が主著者の論文がIEICE Transactionsに採録されました。
   > Jun Kurihara, Toru Nakamura and Ryu Watanabe, ``Private Information Retrieval from Coded Storage in the Presence of Omniscient and Limited-Knowledge Byzantine Adversaries,'' to appear in IEICE Trans. Fundamentals, 2021.
+- Mar. 20201: エッジコンピューティングのリソース認可について、IEICE IN研究会で発表を行いました。
+  > 渡辺 龍, 窪田 歩, 栗原 淳, ``エッジコンピューティングにおけるリソース認可のパターンについて,'' 信学技報, vol. 120, no. 414, IN2020-68, pp. 85-90, 2021年3月.
 - Jan. 2021: 栗原が共著の漏洩耐性暗号システムの論文がIEICE Transactionsに掲載されました。 [[Link (jst.go.jp)](https://www.jstage.jst.go.jp/article/transfun/E104.A/1/E104.A_2020CIP0026/_article)]
   > Yuji Koike, Takuya Hayashi, Jun Kurihara and Takanori Isobe, ``Virtual Vault: A Practical Leakage Resilient Scheme Using Space-Hard Ciphers,'' *IEICE Trans. Fundamentals*, vol. 104, no. 1, pp. 182--189, Jan. 2021.
 - Sep. 2020: 栗原が秘匿検索のロバスト性について「誤り訂正符号のワークショップ」にて発表しました。[[ECCWS](https://manau.jp/WS/ECCWS/)]
@@ -28,7 +32,8 @@
 - 参考:
   - [情報科学研究科の教員紹介ページ (u-hyogo.info)](https://u-hyogo.info/research/faculty/kurihara/)
   - [栗原の個人ページ(junkurihara.github.io)](https://junkurihara.github.io/)
-  - [研究室紹介資料 (PDF)](./repo/lab-info-20200326.pdf)
+  - [栗原のSlideshare (講演資料とか授業のスライドとか)](https://www.slideshare.net/JunKurihara2)
+  - [研究室紹介資料 (PDF)](./repo/lab-info-20200326.pdf) ← 多少偏っているのでSlideshareとか論文リストをみてください
   - [研究指南書リスト](./ja/research-guides.md)
 
 ---

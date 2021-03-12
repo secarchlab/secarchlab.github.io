@@ -6,6 +6,8 @@
 
 ## News
 
+- Mar. 2021: Presentation at ATR seminar [(Slideshare)](https://www.slideshare.net/JunKurihara2/20210315atr-seminer):
+  > Jun Kurihara, ``Security and anonymity in DNS'', 2021
 - Mar. 2021: A paper on code-based private information retrieval scheme was accepted to IEICE Transactions.
   > Jun Kurihara, Toru Nakamura and Ryu Watanabe, ``Private Information Retrieval from Coded Storage in the Presence of Omniscient and Limited-Knowledge Byzantine Adversaries,'' to appear in IEICE Trans. Fundamentals, 2021.
 - Jan. 2021: A paper coauthored by Jun about leakage resilient cryptographic system was accepted and appeared in IEICE Transactions. [[Link (jst.go.jp)](https://www.jstage.jst.go.jp/article/transfun/E104.A/1/E104.A_2020CIP0026/_article)]
@@ -34,7 +36,7 @@
   - etc.
 
 - In-network and edge computing architecture, its security and privacy, e.g., new theoretical (and mathematical) framework of secure communication and computation, privacy-preserving computation at untrusted third-party edge environment.
-  - Analysis on the resistance to Byzantine and unresponsive servers in PIR schemes from coded-storage (IEICE ComEx 2020)
+  - Analysis on the resistance to Byzantine and unresponsive servers in PIR schemes from coded-storage (IEICE ComEx 2020, IEICE Trans. 2021)
   - etc.
 
 For detailed research topics and publication, please check [Jun's web site](https://junkurihara.github.io). Also for students, please check [[the slides for introduction to this lab (PDF)](./repo/lab-info-20200326.pdf)]
