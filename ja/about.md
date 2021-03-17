@@ -23,8 +23,7 @@
   - DNSプロトコル匿名化の研究
   - etc.
 
-詳細な研究内容や出版履歴については、[栗原のWebサイト](https://junkurihara.github.io) や[Slideshare](https://slideshare)を参照して下さい。
-学生の方向けの[[研究室紹介資料 (PDF)](../repo/lab-info-20200326.pdf)]もご参照下さい。
+詳細な研究内容や出版履歴については、[Researchmap](https://researchmap.jp/junkurihara)、[栗原のWebサイト](https://junkurihara.github.io)、[Slideshare](https://www.slideshare.net/JunKurihara2/presentations)、[GitHub](https://github.com/junkurihara) などを参照して下さい。簡単な[研究室紹介資料 (PDF)](../repo/lab-info-20200326.pdf)もご参照下さい。
 
 ---
 
