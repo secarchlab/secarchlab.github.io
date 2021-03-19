@@ -35,7 +35,7 @@
 セキュアアーキテクチャ研究室では、博士前期/後期課程の学生を受け入れています。
 
 - [**この研究室へ所属を希望する学生の方々へ**](./ja/to-students.md)
-- [栗原の自己紹介 (members内)](./ja/members.md)
+- [栗原の自己紹介 (about内))](./ja/about.md)
 - 栗原の活動の参考:
   - [情報科学研究科の教員紹介ページ (u-hyogo.info)](https://u-hyogo.info/research/faculty/kurihara/)
   - [栗原のWebサイト (junkurihara.github.io)](https://junkurihara.github.io/) ← 英語
