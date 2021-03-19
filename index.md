@@ -1,12 +1,13 @@
 # Welcome to SecArch Lab.
 
-**兵庫県立大学 大学院応用情報科学研究科 セキュアアーキテクチャ研究室 (栗原研究室)**
+**兵庫県立大学大学院 情報科学研究科 セキュアアーキテクチャ研究室 (栗原研究室)**
 
 [**[English page is here.]**](./eng.md)
 
 ---
 ## News
 
+- Apr. 2021: 所属組織が「情報科学研究科」になりました。
 - Mar. 2021: ATRのセミナーで発表しました。スライドは[こちら(Slideshare)](https://www.slideshare.net/JunKurihara2/20210315atr-seminer)。
   > 栗原 淳, ``DNSにおけるセキュリティ＆プライバシ動向''
 - Mar. 2021: 符号化ストレージに対する秘匿検索技術について、栗原が主著者の論文がIEICE Transactionsに採録されました。
