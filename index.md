@@ -17,6 +17,7 @@
   > 栗原 淳, ``DNSにおけるセキュリティ＆プライバシ動向''
 - Mar. 2021: 符号化ストレージに対する秘匿検索技術について、栗原が主著者の論文がIEICE Transactionsに採録されました。
   > Jun Kurihara, Toru Nakamura and Ryu Watanabe, ``Private Information Retrieval from Coded Storage in the Presence of Omniscient and Limited-Knowledge Byzantine Adversaries,'' to appear in IEICE Trans. Fundamentals, 2021.
+  > IEICE Trans.のEarly Accessで公開されています。[IEICE Trans.](https://search.ieice.org/bin/summary_advpub.php?id=2020DMP0018&category=A&lang=E&abst=)
 - Mar. 2021: エッジコンピューティングのリソース認可について、IEICE IN研究会で発表を行いました。
   > 渡辺 龍, 窪田 歩, 栗原 淳, ``エッジコンピューティングにおけるリソース認可のパターンについて,'' 信学技報, vol. 120, no. 414, IN2020-68, pp. 85-90, 2021年3月.
 - Jan. 2021: 栗原が共著の漏洩耐性暗号システムの論文がIEICE Transactionsに掲載されました。 [[Link (jst.go.jp)](https://www.jstage.jst.go.jp/article/transfun/E104.A/1/E104.A_2020CIP0026/_article)]
