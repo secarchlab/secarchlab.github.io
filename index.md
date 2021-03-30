@@ -36,18 +36,18 @@
 セキュアアーキテクチャ研究室では、博士前期/後期課程の学生を受け入れています。
 
 - [**この研究室へ所属を希望する学生の方々へ**](./ja/to-students.md)
-- [栗原の自己紹介 (about内)](./ja/about.md)
+- [**栗原の自己紹介 (about内)**](./ja/about.md)
 - 栗原の活動の参考:
   - [情報科学研究科の教員紹介ページ (u-hyogo.info)](https://u-hyogo.info/research/faculty/kurihara/)
   - [栗原のWebサイト (junkurihara.github.io)](https://junkurihara.github.io/) ← 英語
-  - [栗原のSlideshare (講演資料とか授業のスライドとか)](https://www.slideshare.net/JunKurihara2)
-  - [栗原のGitHub (授業のスライド・サンプルコード、ソースコード)](https://github.com/junkurihara)
+  - [栗原のSlideshare (講演資料・講義スライド)](https://www.slideshare.net/JunKurihara2)
+  - [栗原のGitHub (講義スライド・サンプルコード、ソースコード)](https://github.com/junkurihara)
     - [セキュリティエンジニアリング特論の資料](https://github.com/junkurihara/lecture-security_engineering)
     - [jscu (JavaScriptでの暗号ユーティリティ)](https://github.com/junkurihara/jscu) ← LINEのFront-end Framework (LIFF) に使われてるらしい
     - 他、色々
   - [栗原のtwitter](https://twitter.com/secarchlab) ← ニュースはこっちに書いてたり
   - [研究室紹介資料 (PDF)](./repo/lab-info-20200326.pdf) ← 多少偏っているのでSlideshareとか論文リストをみてください
-  - [研究指南書リスト](./ja/research-guides.md)
+- [研究指南書リスト](./ja/research-guides.md)
 
 ---
 
