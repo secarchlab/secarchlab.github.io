@@ -17,9 +17,9 @@
     > Jun Kurihara and Takeshi Kubo, ``Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest,'' Apr. 2021. [https://arxiv.org/abs/2104.13785](https://arxiv.org/abs/2104.13785)
 
   - PoC implementations:
-    - Client: https://github.com/junkurihara/dnscrypt-proxy-modns
-    - Relays: https://github.com/junkurihara/encrypted-dns-server-modns
-    - List of deployed relays for experimentation: https://github.com/junkurihara/experimental-resolvers
+    - Client: [https://github.com/junkurihara/dnscrypt-proxy-modns](https://github.com/junkurihara/dnscrypt-proxy-modns)
+    - Relays: [https://github.com/junkurihara/encrypted-dns-server-modns](https://github.com/junkurihara/encrypted-dns-server-modns)
+    - List of deployed relays for experimentation: [https://github.com/junkurihara/experimental-resolvers](https://github.com/junkurihara/experimental-resolvers)
 
 - Apr. 2021: 所属組織が「情報科学研究科」になりました。
 - Mar. 2021: ATRのセミナーで発表しました。スライドは[こちら(Slideshare)](https://www.slideshare.net/JunKurihara2/20210315atr-seminer)。
