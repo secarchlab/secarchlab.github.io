@@ -12,6 +12,7 @@
 
 ## News
 
+- May. 2021: 誤解を受けることが多いため、「[この研究室へ所属を希望する学生の方々へ](./ja/to-students.md)」に注意事項を入れました。**情報通信・ネットワークにおいて、セキュリティはより良いシステムのための一つの付加要素**です。そのため、基となるシステムに対する強い興味と習熟が何より重要です。また、この研究室はセキュリティ専業というわけでもありません。
 - Apr. 2021: 匿名化DNSのコンセプトペーパーと、そのProof-of-Conceptのための実装を公開しました。
   - Concept paper:
     > Jun Kurihara and Takeshi Kubo, ``Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest,'' Apr. 2021. [https://arxiv.org/abs/2104.13785](https://arxiv.org/abs/2104.13785)
