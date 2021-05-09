@@ -1,12 +1,12 @@
-# Welcome to SecArch Lab.
+# Welcome to SecArch Lab
+
+[**[English page is here.]**](./en.md)
 
 <div align="center">
 <img src="./images/logo.png" width="300" text="Logo 2020">
 </div>
 
 **兵庫県立大学大学院 情報科学研究科 セキュアアーキテクチャ研究室 (栗原研究室)**
-
-[**[English page is here.]**](./eng.md)
 
 ---
 

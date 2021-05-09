@@ -1,4 +1,4 @@
-# Welcome to SecArch Lab.
+# Welcome to SecArch Lab
 
 **Secure Architecture Lab., Graduate School of Information Science, University of Hyogo**
 
@@ -63,7 +63,7 @@ For detailed research topics and publication, please check [Jun's web site](http
 
 ---
 
-## Information to students.
+## Information to students
 
 If you are interested in studying at our lab, **please check [this page](./en/to-students.md) which summarizes how to choose your supervisor and our research style in this lab**. **If you wish to research in this lab, please contact Jun Kurihara before applying the admission exam.** I believe that we should have a chat (F2F or online) beforehand in order to have good research topics at this lab and avoid any misunderstanding on our research.
 
