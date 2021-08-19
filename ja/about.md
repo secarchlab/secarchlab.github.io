@@ -59,7 +59,6 @@
 - [LinkedIn](https://www.linkedin.com/in/junkurihara/)
 - [Google Scholar](https://scholar.google.co.jp/citations?user=e0XuwAoAAAAJ&hl=ja)
 - [Researchmap](https://researchmap.jp/junkurihara)
-- [Twitter](https://twitter.com/secarchlab)
 
 ---
 
