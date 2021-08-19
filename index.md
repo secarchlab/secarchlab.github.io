@@ -57,7 +57,6 @@
     - [セキュリティエンジニアリング特論の資料](https://github.com/junkurihara/lecture-security_engineering)
     - [jscu (JavaScriptでの暗号ユーティリティ)](https://github.com/junkurihara/jscu) ← LINEのFront-end Framework (LIFF) に使われてるらしい
     - 他、色々
-  - [栗原のtwitter](https://twitter.com/secarchlab) ← ニュースはこっちに書いてたり
   - [研究室紹介資料 (PDF)](./repo/lab-info-20200326.pdf) ← 多少偏っているのでSlideshareとか論文リストをみてください
 - [研究指南書リスト](./ja/research-guides.md)
 
