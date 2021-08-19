@@ -6,6 +6,8 @@
 
 ## News
 
+- Jul. 2021: Presented at IEICE-NS.
+  > https://www.ieice.org/ken/paper/20210715UCeL/
 - Apr. 2021: Published an experimental project for DNS anonymization based on multiple-relays.
   - Concept paper:
     > Jun Kurihara and Takeshi Kubo, ``Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest,'' Apr. 2021. [https://arxiv.org/abs/2104.13785](https://arxiv.org/abs/2104.13785)
