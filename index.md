@@ -12,6 +12,8 @@
 
 ## News
 
+- Sep. 2021: 電子情報通信学会 ソサエティ大会でチュートリアル講演をしました。
+  >  [http://www.ieice-taikai.jp/2021society/jpn/webpro/_html/cs_kikaku.html#bt_3](http://www.ieice-taikai.jp/2021society/jpn/webpro/_html/cs_kikaku.html#bt_3)
 - Jul. 2021: 電子情報通信学会 ネットワークシステム研究会で発表しました。
   > [https://www.ieice.org/ken/paper/20210715UCeL/](https://www.ieice.org/ken/paper/20210715UCeL/)
 - May. 2021: 誤解を受けることが多いため、「[この研究室へ所属を希望する学生の方々へ](./ja/to-students.md)」に注意事項を入れました。**情報通信・ネットワークにおいて、セキュリティはより良いシステムのための一つの付加要素**です。そのため、基となるシステムに対する強い興味と習熟が何より重要です。また、この研究室はセキュリティ専業というわけでもありません。

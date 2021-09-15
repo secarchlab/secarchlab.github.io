@@ -6,6 +6,8 @@
 
 ## News
 
+- Sep. 2021: Presented at IEICE Society Conference.
+  >  [http://www.ieice-taikai.jp/2021society/jpn/webpro/_html/cs_kikaku.html#bt_3](http://www.ieice-taikai.jp/2021society/jpn/webpro/_html/cs_kikaku.html#bt_3)
 - Jul. 2021: Presented at IEICE-NS.
   > [https://www.ieice.org/ken/paper/20210715UCeL/](https://www.ieice.org/ken/paper/20210715UCeL/)
 - Apr. 2021: Published an experimental project for DNS anonymization based on multiple-relays.
