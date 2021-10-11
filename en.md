@@ -6,6 +6,8 @@
 
 ## News
 
+- Oct. 2021: Publish a slide deck introducing *Hybrid Public Key Encryption (HPKE)*, which is currently being standardized at IETF. (written in Japanese)
+  > [https://www.slideshare.net/JunKurihara2/hybrid-public-key-encryption-hpke-250381344](https://www.slideshare.net/JunKurihara2/hybrid-public-key-encryption-hpke-250381344)
 - Sep. 2021: Presented at IEICE Society Conference.
   >  [http://www.ieice-taikai.jp/2021society/jpn/webpro/_html/cs_kikaku.html#bt_3](http://www.ieice-taikai.jp/2021society/jpn/webpro/_html/cs_kikaku.html#bt_3)
 - Jul. 2021: Presented at IEICE-NS.

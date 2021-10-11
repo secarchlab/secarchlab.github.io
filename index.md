@@ -12,6 +12,8 @@
 
 ## News
 
+- Oct. 2021: IETFで標準化策定が進む"Hybrid Public Key Encryption (HPKE)"について概説資料を公開しました。
+  > [https://www.slideshare.net/JunKurihara2/hybrid-public-key-encryption-hpke-250381344](https://www.slideshare.net/JunKurihara2/hybrid-public-key-encryption-hpke-250381344)
 - Sep. 2021: 電子情報通信学会 ソサエティ大会でチュートリアル講演をしました。
   >  [http://www.ieice-taikai.jp/2021society/jpn/webpro/_html/cs_kikaku.html#bt_3](http://www.ieice-taikai.jp/2021society/jpn/webpro/_html/cs_kikaku.html#bt_3)
 - Jul. 2021: 電子情報通信学会 ネットワークシステム研究会で発表しました。
