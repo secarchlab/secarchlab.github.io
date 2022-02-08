@@ -198,7 +198,7 @@ Debian系Linuxであれば[公式サイト](https://code.visualstudio.com/docs/s
 
 VSCodeは、プラグインを使って対応言語や便利機能を拡張していく。たとえばRust ([`rust-analyzer`](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer))やLaTeX対応プラグイン([`LaTeX Workshop`](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop))は非常に出来が良いため、うまく使って効率的な記述を行うと良い。また、環境をGitHubアカウントを経由して複数環境で同期することができる。
 
-### JetBrains IntelliJ IDEA (PyCharm, WebStorm, GoLand等)
+#### JetBrains IntelliJ IDEA (PyCharm, WebStorm, GoLand等)
 
 VSCodeと同様のIDE。プラグインで言語対応を拡張していくVSCodeとは違い、言語ごとに別のソフトウェアを利用するのが基本。基本的に有償だが、学生・教職員であれば[教育ライセンス](https://www.jetbrains.com/ja-jp/community/education/#students)が無償で利用できる。
 
