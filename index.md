@@ -1,4 +1,4 @@
-# Welcome to SecArch Lab
+# Welcome
 
 [**[English page is here.]**](./en.md)
 

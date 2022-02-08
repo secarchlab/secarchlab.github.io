@@ -1,4 +1,6 @@
-# Welcome to SecArch Lab
+# Welcome
+
+[**[日本語のページはこちら]**](./index.md)
 
 **Secure Architecture Lab., Graduate School of Information Science, University of Hyogo**
 
