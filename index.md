@@ -65,6 +65,7 @@
     - 他、色々
   - [研究室紹介資料 (PDF)](./repo/lab-info-20200326.pdf) ← 多少偏っているのでSlideshareとか論文リストをみてください
 - [研究指南書リスト](./ja/research-guides.md)
+- [研究室でのエンジニアリング (研究やソフトウェア開発) の環境準備](./ja/engineering-env.md)
 
 ---
 
