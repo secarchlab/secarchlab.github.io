@@ -6,7 +6,7 @@
 
 [^2]: たとえば「PATHを通す」とかを「環境変数PATHに値を追加しておく」と記載するなど。
 
-あくまで、[弊研究室](https://secarchlab.github.io)や筆者自身の環境を対象としている。どうしてもUnixコマンドを多用する関係上、macOSかDebian GNU/Linux系統のLinuxをOSとして想定している。**Windowsの利用は想定していない**。Windowsでの互換性等、仮想マシン・WSL2などでどうにかする方法は掲載しない。
+あくまで、[弊研究室](https://secarchlab.github.io)や筆者自身の環境を対象としている。どうしてもUnixコマンドを多用する関係上、macOSかDebian GNU/Linux系統のLinuxをOSとして想定している。**Windowsの利用は想定していない**。Windowsでの互換性等、仮想マシン・WSL2などでどうにかする方法は掲載しない。どうにかする方法はきっとあるので、興味があれば調べてほしい。
 
 ## パッケージマネージャ
 
