@@ -25,22 +25,6 @@
     - Relays: [https://github.com/junkurihara/encrypted-dns-server-modns](https://github.com/junkurihara/encrypted-dns-server-modns)
     - List of deployed relays for experimentation: [https://github.com/junkurihara/experimental-resolvers](https://github.com/junkurihara/experimental-resolvers)
 
-- Apr. 2021: SecArch Lab is now part of 'Graduate school of information science' in UoH.
-- Mar. 2021: Presentation at ATR seminar [(Slideshare)](https://www.slideshare.net/JunKurihara2/20210315atr-seminer):
-  > Jun Kurihara, ``Security and anonymity in DNS'', 2021
-- Mar. 2021: A paper on code-based private information retrieval scheme was accepted to IEICE Transactions.
-  > Jun Kurihara, Toru Nakamura and Ryu Watanabe, ``Private Information Retrieval from Coded Storage in the Presence of Omniscient and Limited-Knowledge Byzantine Adversaries,'' to appear in IEICE Trans. Fundamentals, 2021.
-  > [[Early Access](https://search.ieice.org/bin/summary_advpub.php?id=2020DMP0018&category=A&lang=E&abst=)]
-- Jan. 2021: A paper coauthored by Jun about leakage resilient cryptographic system was accepted and appeared in IEICE Transactions. [[Link (jst.go.jp)](https://www.jstage.jst.go.jp/article/transfun/E104.A/1/E104.A_2020CIP0026/_article)]
-  > Yuji Koike, Takuya Hayashi, Jun Kurihara and Takanori Isobe, ``Virtual Vault: A Practical Leakage Resilient Scheme Using Space-Hard Ciphers,'' *IEICE Trans. Fundamentals*, vol. 104, no. 1, pp. 182--189, Jan. 2021.
-- Sep. 2020: Jun gave a presentation on the robustness of private information retrieval at the Workshop on Error-Correcting Codes (ECCWS). [[ECCWS](https://manau.jp/WS/ECCWS/)]
-- Jul. 2020: We started a joint research project with Cyber Security Lab. of KDDI Research, Inc.
-- Apr. 2020: Our paper on private information retrieval was accepted by IEICE Communications Express (ComEx). [[Link (jst.go.jp)](https://www.jstage.jst.go.jp/article/comex/advpub/0/advpub_2020XBL0055/_article)]
-  > Jun Kurihara and Toru Nakamura, ``On the Resistance to Byzantine and Unresponsive Servers in Code-based PIR Schemes,'' to appear in *IEICE Communications Express*, 2020.
-- Mar. 2020: Uploaded slides for introduction to this lab for students. [[Link to PDF](./repo/lab-info-20200326.pdf)]
-- Feb. 2020: Published a survey article "Network Operations as an Infrastructure for Diverse Businesses" coauthored by Jun at Journal of IEICE. [[Link to summary](https://www.journal.ieice.org/summary.php?id=k103_2_155&year=2020&lang=J)]
-- Jan. 2020: SecArch Lab. just started!
-
 ---
 
 ## Research
@@ -88,9 +72,13 @@ Currently we have funded and joint research projects from the followings.
 
 ## Grants
 
-- JSPS KAKENHI Grant, 2020--2021
+- KDDI Foundation Grant: 2022--2024
 
-- University of Hyogo Special Research Grant, 2020
+- JSPS KAKENHI Grant
+  - 2020--2021 PI
+  - 2021--2023 Co (PI: Prof. Koizumi @ Osaka Univ.)
+
+- University of Hyogo Special Research Grant, 2020, 2021
 
 ---
 
