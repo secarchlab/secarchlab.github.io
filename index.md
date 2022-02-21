@@ -71,4 +71,4 @@
 
 ## 連絡先
 
-- E-mail: kurihara (at) ai (dot) u (hyphen) hyogo (dot) ac (dot) jp
+- Please check my latest email address on my papers/presentations/repositories, or contact via LinkedIn.

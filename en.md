@@ -84,5 +84,4 @@ Currently we have funded and joint research projects from the followings.
 
 ## Contact
 
-- E-mail: kurihara (at) ai (dot) u (hyphen) hyogo (dot) ac (dot) jp
-- Address: Computational Science Center Building, 7-1-28 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan
+- Please check my latest email address on my papers/presentations/repositories, or contact via LinkedIn.
