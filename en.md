@@ -74,11 +74,13 @@ Currently we have funded and joint research projects from the followings.
 
 - KDDI Foundation Grant: 2022--2024
 
-- JSPS KAKENHI Grant
-  - 2020--2021 PI
-  - 2021--2023 Co (PI: Prof. Koizumi @ Osaka Univ.)
+- JSPS KAKENHI Grant-in-Aid for:
+  - Scientific Research C 2022--2024 PI
+  - Scientific Research B 2021--2023 Co (PI: Prof. Koizumi @ Osaka Univ.)
+  - Start-up 2020--2021 PI
 
-- University of Hyogo Special Research Grant, 2020, 2021
+- University of Hyogo Special Research Grant for:
+  - Young Researchers 2020PI, 2021PI
 
 ---
 
