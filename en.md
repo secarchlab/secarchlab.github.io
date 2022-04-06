@@ -8,6 +8,7 @@
 
 ## News
 
+- Apr. 2022: 3 new graduate students joined!
 - Jan. 2022: A paper on the resource authorization method in the emerging architecture of mobile edge computing got accepted to an international conference AINA 2022.
   > R. Watanabe, A. Kubota and J. Kurihara, ''Resource Authorization Methods for Edge Computing,'' to Appear in Proceedings of the 36-th International Conference on Advanced Information Networking and Applications (AINA 2022), Sydney, Australia (Virtual), Apr. 13--15, 2022.
 - Oct. 2021: Publish a slide deck introducing *Hybrid Public Key Encryption (HPKE)*, which is currently being standardized at IETF. (written in Japanese)

@@ -12,6 +12,7 @@
 
 ## News
 
+- Apr. 2022: M1 3名が加入し、新体制に移行しました。
 - Jan. 2022: エッジコンピューティングアーキテクチャにおけるリソース認可手法についての論文が、国際学術会議 AINA 2022 に採録されました。
   > R. Watanabe, A. Kubota and J. Kurihara, ''Resource Authorization Methods for Edge Computing,'' to Appear in Proceedings of the 36-th International Conference on Advanced Information Networking and Applications (AINA 2022), Sydney, Australia (Virtual), Apr. 13--15, 2022.
 - Oct. 2021: IETFで標準化策定が進む"Hybrid Public Key Encryption (HPKE)"について概説資料を公開しました。
