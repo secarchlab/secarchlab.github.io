@@ -77,6 +77,8 @@
 
 ### M1: 小滝 西登 (おだき さいと)
 
-### M1: XXXXXXXXXX
+---
+
+### M1: 栗原 頂 (くりはら いたる)
 
  **[[Back to top page]](../index.md)**
