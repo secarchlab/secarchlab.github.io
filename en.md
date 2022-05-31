@@ -66,7 +66,6 @@ If you are interested in studying at our lab, **please check [this page](./en/to
 
 ## Funded research project
 
-We are welcome to manage joint research projects with private companies.
 Currently we have funded and joint research projects from the followings.
 
 - KDDI Research Inc.
