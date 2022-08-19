@@ -6,4 +6,3 @@ baseurl: ""
 github:
   is_project_page: false
 show_downloads: false
-google_analytics: UA-163123480-1
