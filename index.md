@@ -17,23 +17,6 @@
   > R. Watanabe, A. Kubota and J. Kurihara, ''Application of Generalized Deduplication Techniques in Edge Computing Environments,'' in Proc. AINA 2023, Mar. 2023.
 - Mar. 2023: M1栗原さんが電子情報通信学会 総合大会で発表しました。
   > 栗原頂, 栗原淳, 田中俊昭, ''ランプ型しきい値法のIndividual Insecurity,'' 電子情報通信学会 総合大会 2023, no. A2-2, Mar. 2023.
-<!-- - Jan. 2022: エッジコンピューティングアーキテクチャにおけるリソース認可手法についての論文が、国際学術会議 AINA 2022 に採録されました。
-  > R. Watanabe, A. Kubota and J. Kurihara, ''Resource Authorization Methods for Edge Computing,'' to Appear in Proceedings of the 36-th International Conference on Advanced Information Networking and Applications (AINA 2022), Sydney, Australia (Virtual), Apr. 13--15, 2022.
-- Oct. 2021: IETFで標準化策定が進む"Hybrid Public Key Encryption (HPKE)"について概説資料を公開しました。
-  > [https://www.slideshare.net/JunKurihara2/hybrid-public-key-encryption-hpke-250381344](https://www.slideshare.net/JunKurihara2/hybrid-public-key-encryption-hpke-250381344)
-- Sep. 2021: 電子情報通信学会 ソサエティ大会でチュートリアル講演をしました。
-  >  [http://www.ieice-taikai.jp/2021society/jpn/webpro/_html/cs_kikaku.html#bt_3](http://www.ieice-taikai.jp/2021society/jpn/webpro/_html/cs_kikaku.html#bt_3)
-- Jul. 2021: 電子情報通信学会 ネットワークシステム研究会で発表しました。
-  > [https://www.ieice.org/ken/paper/20210715UCeL/](https://www.ieice.org/ken/paper/20210715UCeL/)
-- May. 2021: 誤解を受けることが多いため、[注意事項を記載](./ja/to-students.md)しました。**情報通信・ネットワークにおいて、セキュリティはより良いシステムのための一つの付加要素**です。そのため、基となるシステムに対する強い興味と習熟が何より重要です。そのため、この研究室はセキュリティ専業ではありません。
-- Apr. 2021: 匿名化DNSのコンセプトペーパーと、そのProof-of-Conceptのための実装を公開しました。
-  - Concept paper:
-    > Jun Kurihara and Takeshi Kubo, ``Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest,'' Apr. 2021. [https://arxiv.org/abs/2104.13785](https://arxiv.org/abs/2104.13785)
-
-  - PoC implementations:
-    - Client: [https://github.com/junkurihara/dnscrypt-proxy-modns](https://github.com/junkurihara/dnscrypt-proxy-modns)
-    - Relays: [https://github.com/junkurihara/encrypted-dns-server-modns](https://github.com/junkurihara/encrypted-dns-server-modns)
-    - List of deployed relays for experimentation: [https://github.com/junkurihara/experimental-resolvers](https://github.com/junkurihara/experimental-resolvers) -->
 
 ---
 
