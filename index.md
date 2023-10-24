@@ -59,3 +59,4 @@
 ## 連絡先
 
 - Please check my latest email address on my papers/presentations/repositories, or contact via LinkedIn.
+- スパム避けのためメールアドレスはここに記載していません。栗原のWebサイトにある最近の論文PDFなどにアドレスが載っているため、そちらをご参照ください。
