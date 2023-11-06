@@ -20,7 +20,7 @@
 - ネットワーク内コンピューティング・エッジコンピューティングなど、新しい計算アーキテクチャにおける数理的フレームワークの研究や、信頼できない計算基盤でのユーザプライバシ保護方法の研究
 
   - 情報検索におけるプライバシ保護プロトコル「Private Information Retrieval」でデータサーバに攻撃者が含まれていた場合に正しく情報が取得できる限界値を解明する研究。(IEICE ComEx 2020 / IEICE Trans. 2021)
-  - DNSプロトコル匿名化の研究 (2021〜)
+  - DNSプロトコル匿名化の研究 (Computer Networks 2023, etc.)
   - etc.
 
 詳細な研究内容や出版履歴については、[Researchmap](https://researchmap.jp/junkurihara)、[栗原のWebサイト](https://junkurihara.github.io)、[GitHub](https://github.com/junkurihara) などを参照して下さい。ある一部のトピックのみを切り出したものですが、[研究室紹介資料 (PDF)](../repo/lab-info-20200326.pdf)もご参照下さい。
@@ -60,7 +60,7 @@
 
 ### M2
 
-- 木村 紘樹 (きむら　ひろき) (CMU留学中)
+- 木村 紘樹 (きむら ひろき) (CMU留学中)
 - 小滝 西登 (おだき さいと)
 - 栗原 頂 (くりはら いたる)
 

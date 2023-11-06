@@ -22,7 +22,7 @@
 
 - In-network and edge computing architecture, its security and privacy, e.g., new theoretical (and mathematical) framework of secure communication and computation, privacy-preserving computation at untrusted third-party edge environment.
   - Analysis on the resistance to Byzantine and unresponsive servers in PIR schemes from coded-storage (IEICE ComEx 2020, IEICE Trans. 2021)
-  - DNS Anonymity and privacy
+  - DNS Anonymity and privacy (Computer Networks 2023, etc.)
   - etc.
 
 For detailed research topics and publication, please check [Jun's web site](https://junkurihara.github.io). Also for students, please check [[the slides for introduction to this lab (PDF)](./repo/lab-info-20200326.pdf)]

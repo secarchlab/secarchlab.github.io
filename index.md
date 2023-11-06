@@ -12,6 +12,10 @@
 
 ## News
 
+- Nov. 2023: 栗原が主著者である、&mu;ODNSプロジェクトについてのフルペーパが、Elsevierの論文誌Computer Networksに採録されました。リレーとリゾルバが結託している場合でも、匿名性を担保するための仕組みを提案し、その性能を評価しています。実環境でも公開・運用しています。([&mu;ODNS Project](https://junkurihara.github.io/dns))
+  > J. Kurihara, T. Tanaka, and T. Kubo, ``&mu;ODNS: A distributed approach to DNS anonymization with collusion resistance,'' to appear in Computer Networks, Elsevier, 2023. ([DOI](https://doi.org/10.1016/j.comnet.2023.110078), currently pre-proof)
+- Nov. 2023: M2栗原さんが情報処理学会 コンピュータセキュリティシンポジウム 2023 (CSS 2023) にて発表しました。任意の線形秘密分散法とセキュアネットワーク符号化において、新たな安全性尺度を提案し、その精密な値が符号パラメータで記述できることを明らかにしています。
+  > 栗原頂, 栗原淳, 田中俊昭, ''線形秘密分散法とセキュアネットワーク符号化における新たな安全性尺度,'' Computer Security Symposium (CSS) 2023, no. 3E4-1, Oct./Nov. 2023.
 - Apr. 2023: 修士課程1年 1名が加入しました。
 - Mar. 2023: エッジコンピューティングアーキテクチャにおける新たなデータ圧縮手法についての論文が、国際学術会議 AINA 2023 に採録されました。
   > R. Watanabe, A. Kubota and J. Kurihara, ''Application of Generalized Deduplication Techniques in Edge Computing Environments,'' in Proc. AINA 2023, Mar. 2023.
