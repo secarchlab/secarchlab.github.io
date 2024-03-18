@@ -11,7 +11,7 @@
 ---
 
 ## News
-- Mar. 2024: エッジコンピューティングアーキテクチャにおけるSelf-Sovreign IDによる認証認可手法の論文が、国際学術会議 AINA 2023 に採録されました。情報処理学会CSEC研究会でも発表します。
+- Mar. 2024: エッジコンピューティングアーキテクチャにおけるSelf-Sovreign IDによる認証認可手法の論文が、国際学術会議 AINA 2024 に採録されました。情報処理学会CSEC研究会でも発表します。
   > R. Watanabe, A. Kubota, J. Kurihara, and K. Sakurai ''Extension of Resource Authorization Method with SSI in Edge Computing,'' in Proc. AINA 2024, Apr. 2023.
   > 渡辺 龍, 窪田 歩, 栗原 淳, 櫻井幸一, ''エッジコンピューティングにおけるリソース認可への自己主権型アイデンティティの適用,'' IPSJ CSEC研究会, Mar. 2024.
 - Nov. 2023: 栗原が主著者である、&mu;ODNSプロジェクトについてのフルペーパが、Elsevierの論文誌Computer Networksに採録されました。リレーとリゾルバが結託している場合でも、匿名性を担保するための仕組みを提案し、その性能を評価しています。実環境でも公開・運用しています。([&mu;ODNS Project](https://junkurihara.github.io/dns))
