@@ -38,7 +38,7 @@ For detailed research topics and publication, please check [Jun's web site](http
 
 ### Students
 
-- Master Course: 4 students
+- Master Course: 2 students
 
 ---
 
