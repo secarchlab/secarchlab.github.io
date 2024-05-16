@@ -14,7 +14,7 @@
 
 - May. 2023: 任意の線形秘密分散法とセキュアネットワーク符号化において、新たな安全性尺度を提案し、その精密な値が符号パラメータで記述できることを明らかにした論文が、国際論文誌 IEEE Accessに採録されました。修了した学生（栗原頂さん）の研究成果です。
 
-  > I. Kurihara, J. Kurihara and T. Tanaka, ''A New Security Measure in Secret Sharing Schemes and Secure Network Coding,'' accepted for publication in IEEE Access, 2024.
+  > I. Kurihara, J. Kurihara and T. Tanaka, ''A New Security Measure in Secret Sharing Schemes and Secure Network Coding,'' IEEE Access, May 2024. ([DOI](https://doi.org/10.1109/ACCESS.2024.3401471))
 
 - Mar. 2024: エッジコンピューティングアーキテクチャにおけるSelf-Sovreign IDによる認証認可手法の論文が、国際学術会議 AINA 2024 に採録されました。情報処理学会CSEC研究会でも発表します。
   > R. Watanabe, A. Kubota, J. Kurihara, and K. Sakurai ''Extension of Resource Authorization Method with SSI in Edge Computing,'' in Proc. AINA 2024, Apr. 2023.
