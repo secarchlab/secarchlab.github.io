@@ -2,9 +2,9 @@
 
 [**[English page is here.]**](./en.md)
 
-<div align="center">
-<img src="./images/logo.png" width="300" text="Logo 2020">
-</div>
+<!-- <div align="center"> -->
+<!-- <img src="./images/logo.png" width="300" text="Logo 2020"> -->
+<!-- </div> -->
 
 **兵庫県立大学大学院 情報科学研究科 セキュアアーキテクチャ研究室**
 
@@ -27,21 +27,40 @@
 
 ---
 
+## この研究室について・研究内容
+
+私たちは、情報通信・ネットワークを中心として、堅牢性や効率性、また安全性・プライバシ性の高いアーキテクチャ・システム・プロトコルを作り上げるための研究を行っています。特に、基礎的分野では符号理論を元にしたプロトコルの構築、応用的分野では新しいネットワークアーキテクチャやその匿名化・認証プロトコルの研究などを行っています。
+
+- 情報理論や符号理論の技術を用いた、通信プロトコルや、セキュリティ・プライバシ保護手法の研究。例えば、秘密分散法、private information retrievalなど。理論限界を求め、それを達成するにはどうしたらいいか、などを考えています。
+- 情報指向ネットワーク (Information-centric Networking; ICN) における、効率的なプロトコルや新しいセキュリティメカニズムの研究。
+- ネットワーク内コンピューティング・エッジコンピューティングなど、新しい計算アーキテクチャにおける数理的フレームワークの研究や、信頼できない計算基盤でのユーザプライバシ保護方法の研究
+
+詳細な研究内容や出版履歴については、[Researchmap](https://researchmap.jp/junkurihara)、[栗原のWebサイト](https://junkurihara.github.io)、[GitHub](https://github.com/junkurihara) などを参照して下さい。ある一部のトピックのみを切り出したものですが、[研究室紹介資料 (PDF)](../repo/lab-info-20200326.pdf)もご参照下さい。
+
+---
+
+## 良い研究をするために：東京工業大学 植松友彦先生 「研究読本」
+
+植松先生の書かれた「研究読本」は研究室を選ぶために、そして研究を始めるために必要な事柄が全て記載されています。分野に関わらず必ず一度目を通すと良いと思います。 [[link (PDF)](http://www.it.ce.titech.ac.jp/uyematsu/howtoresearch.pdf)] [[mirror](../repo/howtoresearch.pdf)] (Copyright Prof. Uyematsu)
+
+上記植松先生の資料のツール部分・情報ソース部分について、栗原が2022年バージョンの副読資料を作成しました。原著に全て重要な情報は載っていますが、その情報を自分自身で運用するのに、この副読資料が役立てば幸いです。[[link (PDF)](../repo/htr2022.pdf)]
+
+---
+
 ## Links
 
-- [**この研究室について**](./ja/about.md)
-- [**この研究室へ所属を希望する学生の方々へ**](./ja/to-students.md)
-- [研究指南書リスト](./ja/research-guides.md)
-- [研究室でのエンジニアリング (研究やソフトウェア開発) の環境準備](./ja/engineering-env.md)
-- 栗原の活動の参考:
-  - [栗原のWebサイト (junkurihara.github.io)](https://junkurihara.github.io/)
-  - [栗原のSlideshare (講演資料・講義スライド)](https://www.slideshare.net/JunKurihara2)
-  - [栗原のGitHub (講義スライド・サンプルコード、ソースコード)](https://github.com/junkurihara)
-    - [セキュリティエンジニアリング特論の資料](https://github.com/junkurihara/lecture-security_engineering)
-    - [JavaScript暗号ユーティリティ: `jscu`](https://github.com/junkurihara/jscu)
-    - [匿名化DNSプロジェクト: Mutualized Oblivious DNS](https://junkurihara.github.io/dns/)
-    - [Generalized Deduplication (GD) のRust実装: `rust-gd`](https://github.com/junkurihara/rust-gd)
-    - 他、色々
+<!-- - [**この研究室について**](./ja/about.md) -->
+<!-- - [**この研究室へ所属を希望する学生の方々へ**](./ja/to-students.md) -->
+<!-- - [研究指南書リスト](./ja/research-guides.md) -->
+<!-- - [研究室でのエンジニアリング (研究やソフトウェア開発) の環境準備](./ja/engineering-env.md) -->
+<!-- - 栗原の活動の参考: -->
+- [栗原のWebサイト (junkurihara.github.io)](https://junkurihara.github.io/)
+- [栗原のSlideshare (講演資料・講義スライド)](https://www.slideshare.net/JunKurihara2)
+- [栗原のGitHub (講義スライド・サンプルコード、ソースコード)](https://github.com/junkurihara)
+  - [セキュリティエンジニアリング特論の資料](https://github.com/junkurihara/lecture-security_engineering)
+  - [JavaScript暗号ユーティリティ: `jscu`](https://github.com/junkurihara/jscu)
+  - [匿名化DNSプロジェクト: Mutualized Oblivious DNS](https://junkurihara.github.io/dns/)
+  - [Generalized Deduplication (GD) のRust実装: `rust-gd`](https://github.com/junkurihara/rust-gd)
 
 ---
 
@@ -67,3 +86,10 @@
 
 - Please check my latest email address on my papers/presentations/repositories, or contact via LinkedIn.
 - スパム避けのためメールアドレスはここに記載していません。栗原のWebサイトにある最近の論文PDFなどにアドレスが載っているため、そちらをご参照ください。
+
+## 研究室へのアクセス
+
+所在地: 650-0047 兵庫県神戸市中央区港島南町7丁目1番28 計算科学センタービル 6F
+
+- [神戸情報科学キャンパスへのアクセス](https://www.u-hyogo.ac.jp/campuslife/access/campus06.html)
+- [Google Map](https://goo.gl/maps/K5GnaLVAoKssnBkp7)
