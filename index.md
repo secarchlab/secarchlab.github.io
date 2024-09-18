@@ -12,7 +12,19 @@
 
 ## News
 
-- May. 2023: 任意の線形秘密分散法とセキュアネットワーク符号化において、新たな安全性尺度を提案し、その精密な値が符号パラメータで記述できることを明らかにした論文が、国際論文誌 IEEE Accessに採録されました。修了した学生（栗原頂さん）の研究成果です。
+- Nov. 2024: 国際会議 International Symposium on Information Theory and Its Applications (ISITA2024 @台北, 台湾) に2件フルペーパが採録されました。
+
+  > Koki Nakano, Jun Kurihara, Toshiaki Tanaka, ''Private Information Delivery from Coded Storage against Byzantine and Eavesdropping Attacks,'' in Proc. ISITA 2024, Nov. 2024.
+
+  > Riki Aoshima, Jun Kurihara, Toshiaki Tanaka, ``Aggregable Generalized Deduplication,'' in Proc. ISITA 2024, Nov. 2024.
+
+- Oct. 2024: 情報処理学会コンピュータセキュリティシンポジウム2024 (CSS2024@神戸) で、2件発表します。
+
+  > 橋本 俊甫, 田中 俊昭, 栗原 淳, ''クライアントの行動に基づくビザンチン耐性のある連合学習の監視メカニズム,'' in Proc. CSS2024, Oct. 2024
+
+  > Hiroki Kimura, Jun Kurihara, Toshiaki Tanaka, ''Security Analysis of the Smart Lock Products against the Device Hijacking Attacks,'' in Proc. CSS2024, Oct. 2024
+
+- May. 2024: 任意の線形秘密分散法とセキュアネットワーク符号化において、新たな安全性尺度を提案し、その精密な値が符号パラメータで記述できることを明らかにした論文が、国際論文誌 IEEE Accessに採録されました。修了した学生（栗原頂さん）の研究成果です。
 
   > I. Kurihara, J. Kurihara and T. Tanaka, ''A New Security Measure in Secret Sharing Schemes and Secure Network Coding,'' IEEE Access, May 2024. ([DOI](https://doi.org/10.1109/ACCESS.2024.3401471))
 
