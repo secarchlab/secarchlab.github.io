@@ -76,6 +76,7 @@
 - [栗原のSlideshare (講演資料・講義スライド)](https://www.slideshare.net/JunKurihara2)
 - [栗原のGitHub (講義スライド・サンプルコード、ソースコード)](https://github.com/junkurihara)
   - [セキュリティエンジニアリング特論の資料](https://github.com/junkurihara/lecture-security_engineering)
+  - [HTTP/3対応の超高速HTTPリバースプロキシ: `rpxy`](https://github.com/junkurihara/rust-rpxy)
   - [JavaScript暗号ユーティリティ: `jscu`](https://github.com/junkurihara/jscu)
   - [匿名化DNSプロジェクト: Mutualized Oblivious DNS](https://junkurihara.github.io/dns/)
   - [Generalized Deduplication (GD) のRust実装: `rust-gd`](https://github.com/junkurihara/rust-gd)
