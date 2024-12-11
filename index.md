@@ -12,12 +12,16 @@
 
 ## News
 
+- Dec. 2024: SITA 2024のポスターセッションにて発表しました。
+
+  > 中野光喜, 栗原淳, 田中俊昭, ``任意の線形符号を用いたPrivate Information Deliveryとその特徴づけ,'' SITA 2024, Dec. 2024.
+
 - Nov. 2024: IEICE Transactions on Information and Systemsに招待論文が採録されました (2025年6月出版)。
 
   > T. Hasegawa, Y. Koizumi, J. Takemasa, J.Kurihara, T. Tanaka, T. Wood and K. K. Ramakrishnan, ''Leveraging Heterogeneous Programmable Data Planes for Security and Privacy of Cellular Networks, 5G & Beyond,'' to Appear in IEICE Transactions on Information and Systems, vol. 108-D, no. 6, Jun. 2025
-  
+
   > 早期公開URL: https://doi.org/10.1587/transinf.2024NTI0001
-  
+
 - Nov. 2024: 国際会議 International Symposium on Information Theory and Its Applications (ISITA2024 @台北, 台湾) に2件フルペーパが採録されました。
 
   > Koki Nakano, Jun Kurihara, Toshiaki Tanaka, ''Private Information Delivery from Coded Storage against Byzantine and Eavesdropping Attacks,'' in Proc. ISITA 2024, Nov. 2024.
