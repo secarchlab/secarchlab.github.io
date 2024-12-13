@@ -12,7 +12,7 @@
 
 ## News
 
-- Dec. 2024: SITA 2024のポスターセッションにて発表しました。
+- Dec. 2024: 情報理論とその応用シンポジウム (Symposium on Information Theory and Its Applications; SITA) 2024のポスターセッションにて発表しました。
 
   > 中野光喜, 栗原淳, 田中俊昭, ``任意の線形符号を用いたPrivate Information Deliveryとその特徴づけ,'' SITA 2024, Dec. 2024.
 
