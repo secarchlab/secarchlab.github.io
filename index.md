@@ -69,7 +69,7 @@
 
 ---
 
-## 良い研究をするために：東京工業大学 植松友彦先生 「研究読本」
+## 良い研究をするために：東京科学大学 植松友彦先生 「研究読本」
 
 植松先生の書かれた「研究読本」は研究室を選ぶために、そして研究を始めるために必要な事柄が全て記載されています。分野に関わらず必ず一度目を通すと良いと思います。 [[link (PDF)](http://www.it.ce.titech.ac.jp/uyematsu/howtoresearch.pdf)] [[mirror](../repo/howtoresearch.pdf)] (Copyright Prof. Uyematsu)
 
