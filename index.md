@@ -12,6 +12,8 @@
 
 ## News
 
+- Jan. 2025: 栗原が[電子情報通信学会シニア会員](https://www.ieice.org/jpn/senior/senior_member24.html)になりました。
+
 - Dec. 2024: 情報理論とその応用シンポジウム (Symposium on Information Theory and Its Applications; SITA) 2024のポスターセッションにて発表しました。
 
   > 中野光喜, 栗原淳, 田中俊昭, ``任意の線形符号を用いたPrivate Information Deliveryとその特徴づけ,'' SITA 2024, Dec. 2024.
