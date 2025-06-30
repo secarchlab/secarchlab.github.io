@@ -12,6 +12,10 @@
 
 ## News
 
+- Jul. 2025: [IBMミドルウェアユーザ会 2025年度総会](https://jimuc.connpass.com/event/360581/)にて、栗原が特別講演を行います。(2025年7月11日)
+
+  > 栗原淳, ``プライバシ保護のためのインターネットアーキテクチャの進化,'' IBMミドルウェアユーザ会 2025年度総会, Jul. 2025.
+
 - Jan. 2025: 栗原が[電子情報通信学会シニア会員](https://www.ieice.org/jpn/senior/senior_member24.html)になりました。
 
 - Dec. 2024: 情報理論とその応用シンポジウム (Symposium on Information Theory and Its Applications; SITA) 2024のポスターセッションにて発表しました。
