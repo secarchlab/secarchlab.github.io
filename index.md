@@ -16,6 +16,8 @@
 
   > K. Nakano, J. Kurihara and T. Tanaka, ``Extensive study on the security of private information delivery from coded storage,'' to Appear in IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, vol. E109-A, no. 3, Mar. 2026.
 
+  > 早期公開版: [https://doi.org/10.1587/transfun.2025EAP1094](https://doi.org/10.1587/transfun.2025EAP1094)
+
 - Jul. 2025: [IBMミドルウェアユーザ会 2025年度総会](https://jimuc.connpass.com/event/360581/)にて、栗原が特別講演を行います。(2025年7月11日)
 
   > 栗原淳, ``プライバシ保護のためのインターネットアーキテクチャの進化,'' IBMミドルウェアユーザ会 2025年度総会, Jul. 2025. [発表資料](https://www.slideshare.net/slideshow/2025-07-11/281465507)
@@ -28,9 +30,7 @@
 
 - Nov. 2024: IEICE Transactions on Information and Systemsに招待論文が採録されました (2025年6月出版)。
 
-  > T. Hasegawa, Y. Koizumi, J. Takemasa, J.Kurihara, T. Tanaka, T. Wood and K. K. Ramakrishnan, ''Leveraging Heterogeneous Programmable Data Planes for Security and Privacy of Cellular Networks, 5G & Beyond,'' to Appear in IEICE Transactions on Information and Systems, vol. 108-D, no. 6, Jun. 2025
-
-  > 早期公開URL: https://doi.org/10.1587/transinf.2024NTI0001
+  > T. Hasegawa, Y. Koizumi, J. Takemasa, J.Kurihara, T. Tanaka, T. Wood and K. K. Ramakrishnan, ''Leveraging Heterogeneous Programmable Data Planes for Security and Privacy of Cellular Networks, 5G & Beyond,'' IEICE Transactions on Information and Systems, vol. 108-D, no. 6, pp. 485--493, Jun. 2025. ([DOI](https://doi.org/10.1587/transinf.2024NTI0001))
 
 - Nov. 2024: 国際会議 International Symposium on Information Theory and Its Applications (ISITA2024 @台北, 台湾) に2件フルペーパが採録されました。
 
@@ -46,7 +46,7 @@
 
 - May. 2024: 任意の線形秘密分散法とセキュアネットワーク符号化において、新たな安全性尺度を提案し、その精密な値が符号パラメータで記述できることを明らかにした論文が、国際論文誌 IEEE Accessに採録されました。修了した学生（栗原頂さん）の研究成果です。
 
-  > I. Kurihara, J. Kurihara and T. Tanaka, ''A New Security Measure in Secret Sharing Schemes and Secure Network Coding,'' IEEE Access, May 2024. ([DOI](https://doi.org/10.1109/ACCESS.2024.3401471))
+  > I. Kurihara, J. Kurihara and T. Tanaka, ''A New Security Measure in Secret Sharing Schemes and Secure Network Coding,'' IEEE Access, vol. 12, pp. 69163--69171, May 2024. ([DOI](https://doi.org/10.1109/ACCESS.2024.3401471))
 
 
 ---

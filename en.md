@@ -29,19 +29,6 @@ For detailed research topics and publication, please check [Jun's web site](http
 
 ---
 
-## Member
-
-### Faculty
-
-- Jun KURIHARA / 栗原 淳 [[WebSite](https://junkurihara.github.io)]
-
-
-### Students
-
-- Master Course: 2 students
-
----
-
 ## Information to students
 
 If you are interested in studying at our lab, **please check [this page](./en/to-students.md) which summarizes how to choose your supervisor and our research style in this lab**. **If you wish to research in this lab, please contact Jun Kurihara before applying the admission exam.** I believe that we should have a chat (F2F or online) beforehand in order to have good research topics at this lab and avoid any misunderstanding on our research.
@@ -52,19 +39,15 @@ If you are interested in studying at our lab, **please check [this page](./en/to
 
 Currently we have funded and joint research projects from the followings.
 
-- KDDI Research Inc.
+- LabBase Inc.
 
 ## Grants
 
-- KDDI Foundation Grant: 2022--2024
+- NSF-NICT JUNO 3: 2022-2025 CoPI
 
 - JSPS KAKENHI Grant-in-Aid for:
-  - Scientific Research C 2022--2024 PI
-  - Scientific Research B 2021--2023 Co (PI: Prof. Koizumi @ Osaka Univ.)
-  - Start-up 2020--2021 PI
-
-- University of Hyogo Special Research Grant for:
-  - Young Researchers 2020PI, 2021PI
+  - Scientific Research B 2025--2028 PI
+  - Scientific Research C 2022--2025 PI
 
 ---
 
