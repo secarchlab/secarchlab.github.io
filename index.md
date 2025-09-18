@@ -12,6 +12,10 @@
 
 ## News
 
+- Sep. 2025: 論文誌 IEICE Transactions on Communications に、Generalized Deduplicationという新しい圧縮アルゴリズムをエッジコンピューティング向けに最適化する手法を提案したフルペーパが採録されました。修了した学生（青島吏輝さん）の研究成果です。
+
+  > R. Aoshima, J. Kurihara and T. Tanaka, ``Aggregable Generalized Deduplication,'' to Appear in IEICE Transactions on Communications, 2026.
+
 - Aug. 2025: 論文誌 IEICE Transactions on Fundamentals に、Private Information Deliveryのプライバシ成立条件を証明したフルペーパが採録されました。修了した学生（中野光喜さん）の研究成果です。
 
   > K. Nakano, J. Kurihara and T. Tanaka, ``Extensive study on the security of private information delivery from coded storage,'' to Appear in IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, vol. E109-A, no. 3, Mar. 2026.
