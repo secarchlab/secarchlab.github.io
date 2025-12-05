@@ -74,7 +74,7 @@
 
 ### 栗原 淳 (Jun KURIHARA) [[WebSite](https://junkurihara.github.io)]
 
-研究開発からソフトウェア・Webサービスの製品化、通信サービス開発の企画、標準化から教育、オープンソースプロジェクトなどの経験をしてきています。
+研究開発からソフトウェア・Webサービス・ネットワークサービスの製品化、通信・ネットワーク技術の企画、標準化から教育、オープンソースプロジェクトなどの経験をしてきています。
 
 ---
 
@@ -98,6 +98,7 @@
 - [栗原のGitHub (講義スライド・サンプルコード、ソースコード)](https://github.com/junkurihara)
   - [セキュリティエンジニアリング特論の資料](https://github.com/junkurihara/lecture-security_engineering)
   - [HTTP/3対応の超高速HTTPリバースプロキシ: `rpxy`](https://github.com/junkurihara/rust-rpxy)
+  - [TLS/QUIC対応の高速L4プロトコルマルチプレクサ: `rpxy-l4`](https://github.com/junkurihara/rust-rpxy-l4)
   - [JavaScript暗号ユーティリティ: `jscu`](https://github.com/junkurihara/jscu)
   - [匿名化DNSプロジェクト: Mutualized Oblivious DNS](https://junkurihara.github.io/dns/)
   - [Generalized Deduplication (GD) のRust実装: `rust-gd`](https://github.com/junkurihara/rust-gd)
