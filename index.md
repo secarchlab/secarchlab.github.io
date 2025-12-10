@@ -21,6 +21,8 @@
 
   > R. Aoshima, J. Kurihara and T. Tanaka, ``Aggregable Generalized Deduplication,'' to Appear in IEICE Transactions on Communications, vol. E109-B, no. 3, Mar. 2026.
 
+  > 早期公開版: [https://doi.org/10.23919/transcom.2025EBP3064](https://doi.org/10.23919/transcom.2025EBP3064)
+
 - Aug. 2025: 論文誌 IEICE Transactions on Fundamentals に、Private Information Deliveryのプライバシ成立条件を証明したフルペーパが採録されました。修了した学生（中野光喜さん）の研究成果です。
 
   > K. Nakano, J. Kurihara and T. Tanaka, ``Extensive study on the security of private information delivery from coded storage,'' to Appear in IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, vol. E109-A, no. 3, Mar. 2026.
