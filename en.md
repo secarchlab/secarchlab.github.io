@@ -2,7 +2,9 @@
 
 [**[日本語のページはこちら]**](./index.md)
 
-**Secure Architecture Lab., Graduate School of Information Science, University of Hyogo**
+**Secure Architecture Lab. (Kurihara Lab.), School of Computing, Institute of Science Tokyo**
+
+(ex. Secure Architecture Lab., Graduate School of Information Science, University of Hyogo)
 
 
 ---

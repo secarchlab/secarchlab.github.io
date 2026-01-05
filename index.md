@@ -6,11 +6,15 @@
 <!-- <img src="./images/logo.png" width="300" text="Logo 2020"> -->
 <!-- </div> -->
 
-**兵庫県立大学大学院 情報科学研究科 セキュアアーキテクチャ研究室**
+**東京科学大学 情報理工学院 情報工学系 セキュアアーキテクチャ研究室 (栗原研究室)**
+
+(ex. 兵庫県立大学大学院 情報科学研究科)
 
 ---
 
 ## News
+
+- Jan. 2026: 栗原が東京科学大学へ移動しました。
 
 - Sep. 2025: 論文誌 IEICE Transactions on Communications に、Generalized Deduplicationという新しい圧縮アルゴリズムをエッジコンピューティング向けに最適化する手法を提案したフルペーパが採録されました。修了した学生（青島吏輝さん）の研究成果です。
 
@@ -119,7 +123,14 @@
 - Please check my latest email address on my papers/presentations/repositories, or contact via LinkedIn.
 - スパム避けのためメールアドレスはここに記載していません。栗原のWebサイトにある最近の論文PDFなどにアドレスが載っているため、そちらをご参照ください。
 
-## 研究室へのアクセス
+## 東京科学大学の研究室へのアクセス
+
+所在地: 152-8552 東京都目黒区大岡山2-12-1 東京科学大学 西8号館E棟 4F (6Fへ移動予定)
+
+- [東京科学大学へのアクセス](https://www.isct.ac.jp/ja/001/about/campuses-and-offices/ookayama)
+- [Google Map](https://maps.app.goo.gl/uDNrzcybLuNn2L4aA)
+
+## (参考情報: 兵庫県立大学の研究室へのアクセス)
 
 所在地: 650-0047 兵庫県神戸市中央区港島南町7丁目1番28 計算科学センタービル 6F
 
