@@ -16,9 +16,16 @@
 
 - Jan. 2026: 栗原が東京科学大学へ移動しました。
 
+- Nov. 2025: 情報理論とその応用シンポジウム2025 (SITA 2025) にて、栗原が発表を行います。通信における「匿名性」を符号理論によって実現するための新たな手法として、Private Information Deliveryを紹介しています。終了した学生（中野光喜さん）との共同研究成果です。
+  > J. Kurihara, K. Nakano and T. Tanaka, ``On Correctness and Privacy in Private Information Delivery with Coded Storage,'' in Proc. SITA 2025, pp.497--502, Nov. 2025.
+  > - [論文](./repo/paper-sita2025-pid.pdf) (copyright: IEICE)
+  > - [発表資料](./repo/slides-sita2025-pid.pdf)
+
 - Sep. 2025: 論文誌 IEICE Transactions on Communications に、Generalized Deduplicationという新しい圧縮アルゴリズムをエッジコンピューティング向けに最適化する手法を提案したフルペーパが採録されました。修了した学生（青島吏輝さん）の研究成果です。
 
   > R. Aoshima, J. Kurihara and T. Tanaka, ``Aggregable Generalized Deduplication,'' to Appear in IEICE Transactions on Communications, vol. E109-B, no. 3, Mar. 2026.
+
+  > 早期公開版: [https://doi.org/10.23919/transcom.2025EBP3064](https://doi.org/10.23919/transcom.2025EBP3064)
 
 - Aug. 2025: 論文誌 IEICE Transactions on Fundamentals に、Private Information Deliveryのプライバシ成立条件を証明したフルペーパが採録されました。修了した学生（中野光喜さん）の研究成果です。
 
@@ -73,7 +80,7 @@
 
 ### 栗原 淳 (Jun KURIHARA) [[WebSite](https://junkurihara.github.io)]
 
-研究開発からソフトウェア・Webサービスの製品化、通信サービス開発の企画、標準化から教育、オープンソースプロジェクトなどの経験をしてきています。
+研究開発からソフトウェア・Webサービス・ネットワークサービスの製品化、通信・ネットワーク技術の企画、標準化から教育、オープンソースプロジェクトなどの経験をしてきています。
 
 ---
 
@@ -97,6 +104,7 @@
 - [栗原のGitHub (講義スライド・サンプルコード、ソースコード)](https://github.com/junkurihara)
   - [セキュリティエンジニアリング特論の資料](https://github.com/junkurihara/lecture-security_engineering)
   - [HTTP/3対応の超高速HTTPリバースプロキシ: `rpxy`](https://github.com/junkurihara/rust-rpxy)
+  - [TLS/QUIC対応の高速L4プロトコルマルチプレクサ: `rpxy-l4`](https://github.com/junkurihara/rust-rpxy-l4)
   - [JavaScript暗号ユーティリティ: `jscu`](https://github.com/junkurihara/jscu)
   - [匿名化DNSプロジェクト: Mutualized Oblivious DNS](https://junkurihara.github.io/dns/)
   - [Generalized Deduplication (GD) のRust実装: `rust-gd`](https://github.com/junkurihara/rust-gd)
