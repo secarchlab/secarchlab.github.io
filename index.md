@@ -8,7 +8,7 @@
 
 **東京科学大学 情報理工学院 情報工学系 セキュアアーキテクチャ研究室 (栗原研究室)**
 
-(ex-兵庫県立大学大学院 情報科学研究科 栗原研究室)
+(ex-兵庫県立大学大学院 情報科学研究科 セキュアアーキテクチャ研究室)
 
 ---
 
@@ -77,11 +77,15 @@
 - 情報指向ネットワーク (Information-centric Networking; ICN) における、効率的なプロトコルや新しいセキュリティメカニズムの研究。
 - ネットワーク内コンピューティング・エッジコンピューティングなど、新しい計算アーキテクチャにおける数理的フレームワークの研究や、信頼できない計算基盤でのユーザプライバシ保護方法の研究。機械学習特有の計算など、多種多様な計算アルゴリズムの実行や、計算のためのデータのやり取りをセキュアに行う基盤の構築方法を考えています。
 
-詳細な研究内容や出版履歴については、[Researchmap](https://researchmap.jp/junkurihara)、[栗原のWebサイト](https://junkurihara.github.io)、[GitHub](https://github.com/junkurihara) などを参照して下さい。[研究室紹介資料 (PDF)](../repo/lab-info-20260115.pdf) や [DNS匿名化の資料 (Slideshare)](https://www.slideshare.net/slideshow/mutualized-oblivious-dns-odns-hiding-a-tree-in-the-wild-forest-249693576/249693576) などのスライドもご参照下さい。
+詳細な研究内容や出版履歴については、[Researchmap](https://researchmap.jp/junkurihara)、[栗原のWebサイト](https://junkurihara.github.io)、[GitHub](https://github.com/junkurihara) などを参照して下さい。
 
-### 栗原 淳 (Jun KURIHARA) [[WebSite](https://junkurihara.github.io)]
+### 教員: 栗原 淳 (Jun KURIHARA) [[WebSite](https://junkurihara.github.io)]
 
 研究開発からソフトウェア・Webサービス・ネットワークサービスの製品化、通信・ネットワーク技術の企画、標準化から教育、オープンソースプロジェクトなどの経験をしてきています。
+
+### この研究室への配属を考える学生の皆さんへ
+
+[研究室紹介資料 (PDF)](../repo/lab-info-20260115.pdf) や [DNS匿名化の資料 (Slideshare)](https://www.slideshare.net/slideshow/mutualized-oblivious-dns-odns-hiding-a-tree-in-the-wild-forest-249693576/249693576) などのスライドもご参照下さい。興味がありましたらば、ぜひ気軽に栗原へ連絡して下さい。
 
 ---
 
@@ -103,7 +107,7 @@
 - [栗原のWebサイト (junkurihara.github.io)](https://junkurihara.github.io/)
 - [栗原のSlideshare (講演資料・講義スライド)](https://www.slideshare.net/JunKurihara2)
 - [栗原のGitHub (講義スライド・サンプルコード、ソースコード)](https://github.com/junkurihara)
-  - [セキュリティエンジニアリング特論の資料](https://github.com/junkurihara/lecture-security_engineering)
+  - [セキュリティエンジニアリング特論＠兵庫県立大の資料](https://github.com/junkurihara/lecture-security_engineering)
   - [HTTP/3対応の超高速HTTPリバースプロキシ: `rpxy`](https://github.com/junkurihara/rust-rpxy)
   - [TLS/QUIC対応の高速L4プロトコルマルチプレクサ: `rpxy-l4`](https://github.com/junkurihara/rust-rpxy-l4)
   - [JavaScript暗号ユーティリティ: `jscu`](https://github.com/junkurihara/jscu)
@@ -130,7 +134,7 @@
 ## 連絡先
 
 - Please check my latest email address on my papers/presentations/repositories, or contact via LinkedIn.
-- スパム避けのためメールアドレスはここに記載していません。栗原のWebサイトにある最近の論文PDFなどにアドレスが載っているため、そちらをご参照ください。
+- スパム避けのためメールアドレスはここに記載していません。栗原のWebサイトにある最近の論文PDFや研究室紹介スライドなどにアドレスが載っているため、そちらをご参照ください。簡単に見つけられます！
 
 ## 東京科学大学の研究室へのアクセス
 
@@ -139,7 +143,7 @@
 - [東京科学大学へのアクセス](https://www.isct.ac.jp/ja/001/about/campuses-and-offices/ookayama)
 - [Google Map](https://maps.app.goo.gl/uDNrzcybLuNn2L4aA)
 
-## (参考情報: 兵庫県立大学の研究室へのアクセス)
+## (参考: 兵庫県立大学の研究室へのアクセス)
 
 所在地: 650-0047 兵庫県神戸市中央区港島南町7丁目1番28 計算科学センタービル 6F
 
