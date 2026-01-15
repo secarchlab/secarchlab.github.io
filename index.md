@@ -8,7 +8,7 @@
 
 **東京科学大学 情報理工学院 情報工学系 セキュアアーキテクチャ研究室 (栗原研究室)**
 
-(ex. 兵庫県立大学大学院 情報科学研究科)
+(ex-兵庫県立大学大学院 情報科学研究科 栗原研究室)
 
 ---
 
@@ -70,13 +70,14 @@
 
 ### 研究内容
 
-私たちは、情報通信・ネットワークを中心として、堅牢性や効率性、また安全性・プライバシ性の高いアーキテクチャ・システム・プロトコルを作り上げるための研究を行っています。特に、基礎的分野では符号理論を元にしたプロトコルの構築、応用的分野では新しいネットワークアーキテクチャやその匿名化・認証プロトコルの研究などを行っています。
+私たちは、将来ネットワーク基盤に必須となるセキュリティ・プライバシの要素技術やプロトコルを、理論と実装の両面から研究しています。特に、基礎的分野では符号理論を元にしたプロトコルの構築、応用的分野では新しいネットワークアーキテクチャやその匿名化・認証プロトコルの研究などを行っています。
 
+- より軽量かつ結託に対して耐性を有するようなインターネット上の匿名化プロトコル（例: DNS匿名化プロトコル Mutualized Oblivious DNS (ODNS)）の設計と実装、評価。テストベッド環境を用いた性能評価も行っています。
 - 情報理論や符号理論の技術を用いた、通信プロトコルや、セキュリティ・プライバシ保護手法の研究。例えば、秘密分散法、private information retrievalなど。理論限界を求め、それを達成するにはどうしたらいいか、などを考えています。
 - 情報指向ネットワーク (Information-centric Networking; ICN) における、効率的なプロトコルや新しいセキュリティメカニズムの研究。
 - ネットワーク内コンピューティング・エッジコンピューティングなど、新しい計算アーキテクチャにおける数理的フレームワークの研究や、信頼できない計算基盤でのユーザプライバシ保護方法の研究。機械学習特有の計算など、多種多様な計算アルゴリズムの実行や、計算のためのデータのやり取りをセキュアに行う基盤の構築方法を考えています。
 
-詳細な研究内容や出版履歴については、[Researchmap](https://researchmap.jp/junkurihara)、[栗原のWebサイト](https://junkurihara.github.io)、[GitHub](https://github.com/junkurihara) などを参照して下さい。ある一部のトピックのみを切り出したものですが、[研究室紹介資料 (PDF)](../repo/lab-info-20200326.pdf) や [DNS匿名化の資料 (Slideshare)](https://www.slideshare.net/slideshow/mutualized-oblivious-dns-odns-hiding-a-tree-in-the-wild-forest-249693576/249693576) などのスライドもご参照下さい。
+詳細な研究内容や出版履歴については、[Researchmap](https://researchmap.jp/junkurihara)、[栗原のWebサイト](https://junkurihara.github.io)、[GitHub](https://github.com/junkurihara) などを参照して下さい。[研究室紹介資料 (PDF)](../repo/lab-info-20260115.pdf) や [DNS匿名化の資料 (Slideshare)](https://www.slideshare.net/slideshow/mutualized-oblivious-dns-odns-hiding-a-tree-in-the-wild-forest-249693576/249693576) などのスライドもご参照下さい。
 
 ### 栗原 淳 (Jun KURIHARA) [[WebSite](https://junkurihara.github.io)]
 
