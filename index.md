@@ -2,13 +2,15 @@
 
 [**[English page is here.]**](./en.md)
 
-<!-- <div align="center"> -->
-<!-- <img src="./images/logo.png" width="300" text="Logo 2020"> -->
-<!-- </div> -->
+
 
 **東京科学大学 情報理工学院 情報工学系 セキュアアーキテクチャ研究室 (栗原研究室)**
 
 (ex-兵庫県立大学大学院 情報科学研究科 セキュアアーキテクチャ研究室)
+
+<div align="center">
+<img src="./images/lab-image.png" width="500" text="Logo 2020">
+</div>
 
 ---
 

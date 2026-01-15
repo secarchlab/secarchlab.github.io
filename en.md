@@ -6,6 +6,9 @@
 
 (ex-Secure Architecture Lab., Graduate School of Information Science, University of Hyogo)
 
+<div align="center">
+<img src="./images/lab-image.png" width="500" text="Logo 2020">
+</div>
 
 ---
 
