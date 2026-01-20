@@ -16,7 +16,7 @@
 
 ## News
 
-- Jan. 2026: 栗原が東京科学大学へ移動しました。
+- Jan. 2026: 東京科学大学 情報理工学院へ移動しました。
 
 - Nov. 2025: 情報理論とその応用シンポジウム2025 (SITA 2025) にて、栗原が発表を行います。通信における「匿名性」を符号理論によって実現するための新たな手法として、Private Information Deliveryを紹介しています。修了した学生（中野光喜さん）との共同研究成果です。
   > J. Kurihara, K. Nakano and T. Tanaka, ``On Correctness and Privacy in Private Information Delivery with Coded Storage,'' in Proc. SITA 2025, pp.497--502, Nov. 2025.
