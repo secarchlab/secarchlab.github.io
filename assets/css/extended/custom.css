@@ -1,0 +1,20 @@
+.footer-social-icons {
+    margin-bottom: 8px;
+}
+
+.footer-social-icons a {
+    border-bottom: 0;
+}
+
+.footer-social-icons a:hover {
+    border-bottom: 0;
+}
+
+.home-info {
+    min-height: auto;
+    margin-bottom: 12px;
+}
+
+.home-info + .post-content {
+    margin-top: 0;
+}

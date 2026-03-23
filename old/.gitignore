@@ -1,0 +1,10 @@
+.DS_Store
+.hugo_build.lock
+public/
+obsolete/
+isableFastRender/
+.tmp/
+.claude/
+.vscode/
+.idea/
+.private/

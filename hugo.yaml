@@ -1,0 +1,96 @@
+baseURL: 'https://secarchlab.github.io/'
+defaultContentLanguage: 'ja'
+title: 'Secure Architecture Lab.'
+theme: 'PaperMod'
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: "G-BJXE573LSP"
+
+languages:
+  ja:
+    languageName: '日本語'
+    weight: 1
+    title: 'Secure Architecture Lab.'
+    params:
+      homeInfoParams:
+        Title: 'セキュアアーキテクチャ研究室 (栗原研究室)'
+        Content: >
+          東京科学大学 情報理工学院 情報工学系</br>
+
+          (ex-兵庫県立大学大学院 情報科学研究科)
+    menu:
+      main:
+        - name: 'トップ'
+          pageRef: '/'
+          weight: 1
+        - name: '研究室について'
+          pageRef: '/about/'
+          weight: 2
+        - name: '学生の方へ'
+          pageRef: '/for-students/'
+          weight: 3
+        - name: '連絡先・アクセス'
+          pageRef: '/contact/'
+          weight: 4
+
+  en:
+    languageName: 'English'
+    weight: 2
+    title: 'Secure Architecture Lab.'
+    params:
+      homeInfoParams:
+        Title: 'Secure Architecture Lab. (Kurihara Lab.)'
+        Content: >
+          School of Computing, Institute of Science Tokyo </br>
+
+          (ex-Graduate School of Information Science, University of Hyogo)
+    menu:
+      main:
+        - name: 'Home'
+          pageRef: '/'
+          weight: 1
+        - name: 'About'
+          pageRef: '/about/'
+          weight: 2
+        - name: 'For Students'
+          pageRef: '/for-students/'
+          weight: 3
+        - name: 'Contact & Access'
+          pageRef: '/contact/'
+          weight: 4
+
+params:
+  env: production
+  description: 'Secure Architecture Lab. (Kurihara Lab.) - Institute of Science Tokyo'
+  defaultTheme: auto
+  showReadingTime: false
+  showShareButtons: false
+  showPostNavLinks: false
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  disableSpecial1stPost: true
+  hideSummary: true
+
+  socialIcons:
+    - name: github
+      url: 'https://github.com/secarchlab'
+    # - name: linkedin
+    #   url: 'https://www.linkedin.com/in/junkurihara/'
+
+  assets:
+    favicon: '/images/lab-image.png'
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
