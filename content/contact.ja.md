@@ -13,7 +13,7 @@ showToc: false
 
 ## 東京科学大学の研究室へのアクセス
 
-所在地: 152-8552 東京都目黒区大岡山2-12-1 東京科学大学 西8号館E棟 6F (W8-82)
+所在地: 152-8552 東京都目黒区大岡山2-12-1 東京科学大学 W8-82 (オフィス: 西8号館E棟6F)
 
 - [東京科学大学へのアクセス](https://www.isct.ac.jp/ja/001/about/campuses-and-offices/ookayama)
 - [Google Map](https://maps.app.goo.gl/uDNrzcybLuNn2L4aA)

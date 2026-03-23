@@ -8,7 +8,7 @@ showToc: false
 
 In addition to [the introduction to our lab](/about/), please also take a look at the [lab introduction slides (PDF)](/repo/lab-info-20260115.pdf), past papers, GitHub repositories, and slides on SlideShare and Speaker Deck to explore research topics that match your interests.
 
-If you are interested in joining the lab, please feel free to contact Jun Kurihara. In particular, prospective master's students are encouraged to have a meeting in advance.
+If you are interested in joining the lab, please feel free to contact Jun Kurihara. In particular, prospective master's or doctoral students are encouraged to have a meeting in advance.
 
 ---
 
