@@ -1,4 +1,4 @@
-baseURL: 'https://secarchlab.github.io/'
+# baseURL: 'https://secarchlab.github.io/'
 defaultContentLanguage: 'ja'
 title: 'Secure Architecture Lab.'
 theme: 'papermod'
