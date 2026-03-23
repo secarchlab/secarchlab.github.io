@@ -107,10 +107,12 @@
 <!-- - [研究室でのエンジニアリング (研究やソフトウェア開発) の環境準備](./ja/engineering-env.md) -->
 <!-- - 栗原の活動の参考: -->
 - [栗原のWebサイト (junkurihara.github.io)](https://junkurihara.github.io/)
+- [栗原のSpeaker Deck (講演資料・講義スライド)](https://speakerdeck.com/junkurihara)
 - [栗原のSlideshare (講演資料・講義スライド)](https://www.slideshare.net/JunKurihara2)
 - [栗原のGitHub (講義スライド・サンプルコード、ソースコード)](https://github.com/junkurihara)
   - [セキュリティエンジニアリング特論＠兵庫県立大の資料](https://github.com/junkurihara/lecture-security_engineering)
   - [HTTP/3対応の超高速HTTPリバースプロキシ: `rpxy`](https://github.com/junkurihara/rust-rpxy)
+  - [プロトコルマルチプレクサ対応のL4リバースプロキシ: `rpxy-l4`](https://github.com/junkurihara/rust-rpxy-l4)
   - [TLS/QUIC対応の高速L4プロトコルマルチプレクサ: `rpxy-l4`](https://github.com/junkurihara/rust-rpxy-l4)
   - [JavaScript暗号ユーティリティ: `jscu`](https://github.com/junkurihara/jscu)
   - [匿名化DNSプロジェクト: Mutualized Oblivious DNS](https://junkurihara.github.io/dns/)
