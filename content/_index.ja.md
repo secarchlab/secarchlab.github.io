@@ -8,7 +8,7 @@ title: "Secure Architecture Lab."
 
 - Jan. 2026: 栗原が共著になったV2X通信環境でのアクセス制御に関する論文が、国際会議ICISSPで発表されました。
 
-  > R. Watanabe, J. Kurihara, T. Tanaka and K. Sakurai, ``Emergency Traffic Control with Capability-Based Access Control for the V2X Communication Environment,'', in Proceedings of the 12th International Conference on Information Systems Security and Privacy - Volume 1: ICISSP, pp. 515--523, Jan. 2026. ([DOI](https://doi.org/10.5220/0014245900004061))
+  > R. Watanabe, J. Kurihara, T. Tanaka and K. Sakurai, ``Emergency Traffic Control with Capability-Based Access Control for the V2X Communication Environment,'' in Proceedings of the 12th International Conference on Information Systems Security and Privacy - Volume 1: ICISSP, pp. 515--523, Jan. 2026. ([DOI](https://doi.org/10.5220/0014245900004061))
 
 - Jan. 2026: [東京科学大学 情報理工学院 情報工学系](https://educ.titech.ac.jp/cs/) (旧 東京工業大学) へ移動しました。
 
