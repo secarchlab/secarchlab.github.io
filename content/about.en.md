@@ -4,11 +4,9 @@ summary: "About Secure Architecture Lab."
 showToc: false
 ---
 
-We study security and privacy mechanisms and protocols that will be essential to future network infrastructures, from both theoretical and implementation perspectives. Our work ranges from protocol construction based on coding theory to the design of new network architectures and their anonymity and authentication protocols.
+We study security and privacy mechanisms and protocols that will be essential to future network infrastructures, from both theoretical and implementation perspectives. Our work ranges from protocol construction based on coding theory to the design of new network architectures and their anonymity and authentication protocols. ([Lab introduction slides](/repo/lab-info-20260115.pdf), January 2026 version, in Japanese)
 
 ## Research
-
-We study security and privacy mechanisms and protocols that will be essential to future network infrastructures, from both theoretical and implementation perspectives. Our work ranges from protocol construction based on coding theory to the design of new network architectures and their anonymity and authentication protocols. ([Lab introduction slides](/repo/lab-info-20260115.pdf), January 2026 version, in Japanese)
 
 - Design, implementation, and evaluation of lightweight Internet anonymity protocols with resistance against collusion, such as Mutualized Oblivious DNS (ODNS). We also conduct performance evaluations using testbed environments.
 - Research on communication protocols and security/privacy-preserving methods based on information theory and coding theory, including secret sharing and private information retrieval. We study fundamental limits and how to achieve them in practical protocol designs.

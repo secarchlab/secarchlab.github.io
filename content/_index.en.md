@@ -6,7 +6,11 @@ title: "Secure Architecture Lab."
 
 ## News
 
-- Jan. 2026: We moved to the School of Computing, Institute of Science Tokyo.
+- Jan. 2026: A paper co-authored by Jun Kurihara on access control in V2X communication environments was presented at the international conference ICISSP.
+
+  > R. Watanabe, J. Kurihara, T. Tanaka and K. Sakurai, ``Emergency Traffic Control with Capability-Based Access Control for the V2X Communication Environment,'' in Proceedings of the 12th International Conference on Information Systems Security and Privacy - Volume 1: ICISSP, pp. 515--523, Jan. 2026. ([DOI](https://doi.org/10.5220/0014245900004061))
+
+- Jan. 2026: We moved to [Department of Computer Science, School of Computing,  Institute of Science Tokyo](https://educ.titech.ac.jp/cs/eng/) (formerly Tokyo Institute of Technology).
 
 - Dec. 2025: A paper co-authored by Jun Kurihara has been published in the journal of the Information Processing Society of Japan.
   > S. Hashimoto, T. Tanaka and J. Kurihara, ``A Monitoring Mechanism to Realize the Byzantine Resilience in Federated Learning via Client Tracking,'' Information Processing Journal, vol. 66, no. 12, pp.1827--1840, Dec. 2025. ([DOI](https://doi.org/10.20729/0002006337))

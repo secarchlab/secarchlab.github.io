@@ -6,7 +6,11 @@ title: "Secure Architecture Lab."
 
 ## News
 
-- Jan. 2026: 東京科学大学 情報理工学院へ移動しました。
+- Jan. 2026: 栗原が共著になったV2X通信環境でのアクセス制御に関する論文が、国際会議ICISSPで発表されました。
+
+  > R. Watanabe, J. Kurihara, T. Tanaka and K. Sakurai, ``Emergency Traffic Control with Capability-Based Access Control for the V2X Communication Environment,'' in Proceedings of the 12th International Conference on Information Systems Security and Privacy - Volume 1: ICISSP, pp. 515--523, Jan. 2026. ([DOI](https://doi.org/10.5220/0014245900004061))
+
+- Jan. 2026: [東京科学大学 情報理工学院 情報工学系](https://educ.titech.ac.jp/cs/) (旧 東京工業大学) へ移動しました。
 
 - Dec. 2025: 栗原が共著になった論文が情報処理学会の論文誌に採録されました。
   > 橋本俊甫, 田中俊昭, 栗原淳, ``クライアントの行動に基づくビザンチン耐性のある連合学習の監視メカニズム,'' 情報処理学会論文誌 vol. 66, no. 12, pp.1827--1840, Dec. 2025. ([DOI](https://doi.org/10.20729/0002006337))
