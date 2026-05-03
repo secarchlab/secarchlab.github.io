@@ -22,7 +22,7 @@ If you are considering entering a doctoral program or a long-term research stay,
   - International Graduate Program (IGP) or government-sponsored international students: **Prior approval is required**
 - Doctoral Program: **Prior approval is required**
 
-For details, please refer to the university's official website and graduate school information sessions. Even when prior approval is not required, confirming alignment with the supervisor and research topics is important, so we encourage you to actively make use of the department's official information sessions and lab visits. If you have individual questions, please include the information mentioned above when contacting us by email.
+For details, please refer to the university's official website and graduate school information sessions. Even when prior approval is not required, we believe that confirming alignment with the supervisor and research topics is important, which is not only for our lab. We therefore encourage you to actively make use of the department's official information sessions and lab visits. If you have individual questions specifically about our lab, please include the information mentioned above when contacting us by email.
 
 ---
 
