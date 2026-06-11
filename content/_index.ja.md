@@ -6,6 +6,10 @@ title: "Secure Architecture Lab."
 
 ## News
 
+- Jun. 2026: 東京科学大学のオープンキャンパスの発表資料を公開しました。研究室紹介の内容も含まれています。
+
+  > [オープンキャンパス2026発表資料](https://speakerdeck.com/junkurihara/2026nian-opunkiyanpasu-yan-jiu-shi-shao-jie) [Speaker Deck]
+
 - Jan. 2026: 栗原が共著になったV2X通信環境でのアクセス制御に関する論文が、国際会議ICISSPで発表されました。
 
   > R. Watanabe, J. Kurihara, T. Tanaka and K. Sakurai, ``Emergency Traffic Control with Capability-Based Access Control for the V2X Communication Environment,'' in Proceedings of the 12th International Conference on Information Systems Security and Privacy - Volume 1: ICISSP, pp. 515--523, Jan. 2026. ([DOI](https://doi.org/10.5220/0014245900004061))

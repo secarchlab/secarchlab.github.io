@@ -6,6 +6,10 @@ title: "Secure Architecture Lab."
 
 ## News
 
+- Jun. 2026: The presentation slides for the Institute of Science Tokyo Open Campus have been published. They also include an introduction to our laboratory.
+
+  > [Open Campus 2026 Presentation Slides](https://speakerdeck.com/junkurihara/2026nian-opunkiyanpasu-yan-jiu-shi-shao-jie) [Speaker Deck] (in Japanese)
+
 - Jan. 2026: A paper co-authored by Jun Kurihara on access control in V2X communication environments was presented at the international conference ICISSP.
 
   > R. Watanabe, J. Kurihara, T. Tanaka and K. Sakurai, ``Emergency Traffic Control with Capability-Based Access Control for the V2X Communication Environment,'' in Proceedings of the 12th International Conference on Information Systems Security and Privacy - Volume 1: ICISSP, pp. 515--523, Jan. 2026. ([DOI](https://doi.org/10.5220/0014245900004061))
