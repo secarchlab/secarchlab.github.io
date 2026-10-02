@@ -31,6 +31,13 @@ showToc: false
   - [匿名化DNSプロジェクト: Mutualized Oblivious DNS](https://junkurihara.github.io/dns/)
   - [Generalized Deduplication (GD) のRust実装: `rust-gd`](https://github.com/junkurihara/rust-gd)
 
+## メンバー (2026年度)
+
+- B4: 2名 (@東京科学大)
+- M2: 2名 (@兵庫県立大)
+- 海外交流学生: 2名
+- 特別研究員: 1名
+
 ---
 
 ## 受託・共同研究

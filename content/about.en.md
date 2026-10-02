@@ -31,6 +31,13 @@ Jun Kurihara has experience spanning research and development, productization of
   - [DNS anonymity project: Mutualized Oblivious DNS](https://junkurihara.github.io/dns/)
   - [Rust implementation of Generalized Deduplication (GD): `rust-gd`](https://github.com/junkurihara/rust-gd)
 
+## Members (2026)
+
+- Undergraduate students (B4): 2 (@Institute of Science Tokyo)
+- Master's students (M2): 2 (@University of Hyogo)
+- International Exchange Students: 2
+- Research Fellows: 1
+
 ---
 
 ## Joint Research and Sponsored Projects
